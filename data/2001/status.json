@@ -1,0 +1,165 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/2001/status.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "32",
+        "StatusTable": {
+            "season": "2001",
+            "Status": [
+                {
+                    "statusId": "1",
+                    "count": "99",
+                    "status": "Finished"
+                },
+                {
+                    "statusId": "2",
+                    "count": "1",
+                    "status": "Disqualified"
+                },
+                {
+                    "statusId": "3",
+                    "count": "2",
+                    "status": "Accident"
+                },
+                {
+                    "statusId": "4",
+                    "count": "23",
+                    "status": "Collision"
+                },
+                {
+                    "statusId": "5",
+                    "count": "32",
+                    "status": "Engine"
+                },
+                {
+                    "statusId": "6",
+                    "count": "14",
+                    "status": "Gearbox"
+                },
+                {
+                    "statusId": "7",
+                    "count": "6",
+                    "status": "Transmission"
+                },
+                {
+                    "statusId": "8",
+                    "count": "3",
+                    "status": "Clutch"
+                },
+                {
+                    "statusId": "9",
+                    "count": "8",
+                    "status": "Hydraulics"
+                },
+                {
+                    "statusId": "10",
+                    "count": "7",
+                    "status": "Electrical"
+                },
+                {
+                    "statusId": "11",
+                    "count": "72",
+                    "status": "+1 Lap"
+                },
+                {
+                    "statusId": "12",
+                    "count": "32",
+                    "status": "+2 Laps"
+                },
+                {
+                    "statusId": "13",
+                    "count": "10",
+                    "status": "+3 Laps"
+                },
+                {
+                    "statusId": "14",
+                    "count": "1",
+                    "status": "+4 Laps"
+                },
+                {
+                    "statusId": "15",
+                    "count": "2",
+                    "status": "+5 Laps"
+                },
+                {
+                    "statusId": "17",
+                    "count": "1",
+                    "status": "+7 Laps"
+                },
+                {
+                    "statusId": "20",
+                    "count": "21",
+                    "status": "Spun off"
+                },
+                {
+                    "statusId": "22",
+                    "count": "5",
+                    "status": "Suspension"
+                },
+                {
+                    "statusId": "23",
+                    "count": "9",
+                    "status": "Brakes"
+                },
+                {
+                    "statusId": "30",
+                    "count": "4",
+                    "status": "Driveshaft"
+                },
+                {
+                    "statusId": "32",
+                    "count": "6",
+                    "status": "Fuel pressure"
+                },
+                {
+                    "statusId": "38",
+                    "count": "3",
+                    "status": "Steering"
+                },
+                {
+                    "statusId": "43",
+                    "count": "1",
+                    "status": "Exhaust"
+                },
+                {
+                    "statusId": "44",
+                    "count": "3",
+                    "status": "Oil leak"
+                },
+                {
+                    "statusId": "47",
+                    "count": "1",
+                    "status": "Water leak"
+                },
+                {
+                    "statusId": "51",
+                    "count": "1",
+                    "status": "Oil pressure"
+                },
+                {
+                    "statusId": "71",
+                    "count": "1",
+                    "status": "Fuel rig"
+                },
+                {
+                    "statusId": "77",
+                    "count": "1",
+                    "status": "107% Rule"
+                },
+                {
+                    "statusId": "84",
+                    "count": "1",
+                    "status": "Battery"
+                },
+                {
+                    "statusId": "85",
+                    "count": "1",
+                    "status": "Stalled"
+                }
+            ]
+        }
+    }
+}

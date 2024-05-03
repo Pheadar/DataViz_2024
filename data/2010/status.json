@@ -1,0 +1,165 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/2010/status.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "35",
+        "StatusTable": {
+            "season": "2010",
+            "Status": [
+                {
+                    "statusId": "1",
+                    "count": "212",
+                    "status": "Finished"
+                },
+                {
+                    "statusId": "3",
+                    "count": "17",
+                    "status": "Accident"
+                },
+                {
+                    "statusId": "4",
+                    "count": "25",
+                    "status": "Collision"
+                },
+                {
+                    "statusId": "5",
+                    "count": "13",
+                    "status": "Engine"
+                },
+                {
+                    "statusId": "6",
+                    "count": "9",
+                    "status": "Gearbox"
+                },
+                {
+                    "statusId": "8",
+                    "count": "1",
+                    "status": "Clutch"
+                },
+                {
+                    "statusId": "9",
+                    "count": "19",
+                    "status": "Hydraulics"
+                },
+                {
+                    "statusId": "10",
+                    "count": "1",
+                    "status": "Electrical"
+                },
+                {
+                    "statusId": "11",
+                    "count": "68",
+                    "status": "+1 Lap"
+                },
+                {
+                    "statusId": "12",
+                    "count": "31",
+                    "status": "+2 Laps"
+                },
+                {
+                    "statusId": "13",
+                    "count": "13",
+                    "status": "+3 Laps"
+                },
+                {
+                    "statusId": "14",
+                    "count": "8",
+                    "status": "+4 Laps"
+                },
+                {
+                    "statusId": "15",
+                    "count": "3",
+                    "status": "+5 Laps"
+                },
+                {
+                    "statusId": "16",
+                    "count": "1",
+                    "status": "+6 Laps"
+                },
+                {
+                    "statusId": "19",
+                    "count": "1",
+                    "status": "+9 Laps"
+                },
+                {
+                    "statusId": "20",
+                    "count": "2",
+                    "status": "Spun off"
+                },
+                {
+                    "statusId": "22",
+                    "count": "6",
+                    "status": "Suspension"
+                },
+                {
+                    "statusId": "23",
+                    "count": "3",
+                    "status": "Brakes"
+                },
+                {
+                    "statusId": "25",
+                    "count": "1",
+                    "status": "Overheating"
+                },
+                {
+                    "statusId": "26",
+                    "count": "1",
+                    "status": "Mechanical"
+                },
+                {
+                    "statusId": "29",
+                    "count": "1",
+                    "status": "Puncture"
+                },
+                {
+                    "statusId": "30",
+                    "count": "1",
+                    "status": "Driveshaft"
+                },
+                {
+                    "statusId": "31",
+                    "count": "3",
+                    "status": "Retired"
+                },
+                {
+                    "statusId": "32",
+                    "count": "1",
+                    "status": "Fuel pressure"
+                },
+                {
+                    "statusId": "33",
+                    "count": "1",
+                    "status": "Front wing"
+                },
+                {
+                    "statusId": "36",
+                    "count": "5",
+                    "status": "Wheel"
+                },
+                {
+                    "statusId": "37",
+                    "count": "1",
+                    "status": "Throttle"
+                },
+                {
+                    "statusId": "38",
+                    "count": "1",
+                    "status": "Steering"
+                },
+                {
+                    "statusId": "39",
+                    "count": "1",
+                    "status": "Technical"
+                },
+                {
+                    "statusId": "43",
+                    "count": "1",
+                    "status": "Exhaust"
+                }
+            ]
+        }
+    }
+}

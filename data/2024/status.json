@@ -1,0 +1,55 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/2024/status.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "8",
+        "StatusTable": {
+            "season": "2024",
+            "Status": [
+                {
+                    "statusId": "1",
+                    "count": "57",
+                    "status": "Finished"
+                },
+                {
+                    "statusId": "3",
+                    "count": "4",
+                    "status": "Accident"
+                },
+                {
+                    "statusId": "5",
+                    "count": "1",
+                    "status": "Engine"
+                },
+                {
+                    "statusId": "6",
+                    "count": "2",
+                    "status": "Gearbox"
+                },
+                {
+                    "statusId": "11",
+                    "count": "30",
+                    "status": "+1 Lap"
+                },
+                {
+                    "statusId": "12",
+                    "count": "1",
+                    "status": "+2 Laps"
+                },
+                {
+                    "statusId": "23",
+                    "count": "1",
+                    "status": "Brakes"
+                },
+                {
+                    "statusId": "31",
+                    "count": "3",
+                    "status": "Retired"
+                }
+            ]
+        }
+    }
+}

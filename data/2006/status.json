@@ -1,0 +1,165 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/2006/status.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "37",
+        "StatusTable": {
+            "season": "2006",
+            "Status": [
+                {
+                    "statusId": "1",
+                    "count": "145",
+                    "status": "Finished"
+                },
+                {
+                    "statusId": "2",
+                    "count": "4",
+                    "status": "Disqualified"
+                },
+                {
+                    "statusId": "3",
+                    "count": "34",
+                    "status": "Accident"
+                },
+                {
+                    "statusId": "4",
+                    "count": "7",
+                    "status": "Collision"
+                },
+                {
+                    "statusId": "5",
+                    "count": "16",
+                    "status": "Engine"
+                },
+                {
+                    "statusId": "6",
+                    "count": "5",
+                    "status": "Gearbox"
+                },
+                {
+                    "statusId": "7",
+                    "count": "4",
+                    "status": "Transmission"
+                },
+                {
+                    "statusId": "8",
+                    "count": "1",
+                    "status": "Clutch"
+                },
+                {
+                    "statusId": "9",
+                    "count": "11",
+                    "status": "Hydraulics"
+                },
+                {
+                    "statusId": "10",
+                    "count": "3",
+                    "status": "Electrical"
+                },
+                {
+                    "statusId": "11",
+                    "count": "87",
+                    "status": "+1 Lap"
+                },
+                {
+                    "statusId": "12",
+                    "count": "17",
+                    "status": "+2 Laps"
+                },
+                {
+                    "statusId": "13",
+                    "count": "11",
+                    "status": "+3 Laps"
+                },
+                {
+                    "statusId": "14",
+                    "count": "5",
+                    "status": "+4 Laps"
+                },
+                {
+                    "statusId": "15",
+                    "count": "1",
+                    "status": "+5 Laps"
+                },
+                {
+                    "statusId": "20",
+                    "count": "8",
+                    "status": "Spun off"
+                },
+                {
+                    "statusId": "22",
+                    "count": "3",
+                    "status": "Suspension"
+                },
+                {
+                    "statusId": "23",
+                    "count": "3",
+                    "status": "Brakes"
+                },
+                {
+                    "statusId": "26",
+                    "count": "5",
+                    "status": "Mechanical"
+                },
+                {
+                    "statusId": "30",
+                    "count": "7",
+                    "status": "Driveshaft"
+                },
+                {
+                    "statusId": "31",
+                    "count": "1",
+                    "status": "Retired"
+                },
+                {
+                    "statusId": "37",
+                    "count": "1",
+                    "status": "Throttle"
+                },
+                {
+                    "statusId": "38",
+                    "count": "2",
+                    "status": "Steering"
+                },
+                {
+                    "statusId": "39",
+                    "count": "1",
+                    "status": "Technical"
+                },
+                {
+                    "statusId": "40",
+                    "count": "1",
+                    "status": "Electronics"
+                },
+                {
+                    "statusId": "41",
+                    "count": "1",
+                    "status": "Broken wing"
+                },
+                {
+                    "statusId": "42",
+                    "count": "1",
+                    "status": "Heat shield fire"
+                },
+                {
+                    "statusId": "43",
+                    "count": "1",
+                    "status": "Exhaust"
+                },
+                {
+                    "statusId": "44",
+                    "count": "1",
+                    "status": "Oil leak"
+                },
+                {
+                    "statusId": "45",
+                    "count": "1",
+                    "status": "+11 Laps"
+                }
+            ]
+        }
+    }
+}

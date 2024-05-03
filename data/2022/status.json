@@ -1,0 +1,160 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/2022/status.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "29",
+        "StatusTable": {
+            "season": "2022",
+            "Status": [
+                {
+                    "statusId": "1",
+                    "count": "279",
+                    "status": "Finished"
+                },
+                {
+                    "statusId": "3",
+                    "count": "8",
+                    "status": "Accident"
+                },
+                {
+                    "statusId": "4",
+                    "count": "10",
+                    "status": "Collision"
+                },
+                {
+                    "statusId": "5",
+                    "count": "7",
+                    "status": "Engine"
+                },
+                {
+                    "statusId": "6",
+                    "count": "4",
+                    "status": "Gearbox"
+                },
+                {
+                    "statusId": "9",
+                    "count": "4",
+                    "status": "Hydraulics"
+                },
+                {
+                    "statusId": "11",
+                    "count": "80",
+                    "status": "+1 Lap"
+                },
+                {
+                    "statusId": "12",
+                    "count": "6",
+                    "status": "+2 Laps"
+                },
+                {
+                    "statusId": "16",
+                    "count": "1",
+                    "status": "+6 Laps"
+                },
+                {
+                    "statusId": "20",
+                    "count": "2",
+                    "status": "Spun off"
+                },
+                {
+                    "statusId": "22",
+                    "count": "1",
+                    "status": "Suspension"
+                },
+                {
+                    "statusId": "24",
+                    "count": "1",
+                    "status": "Differential"
+                },
+                {
+                    "statusId": "26",
+                    "count": "1",
+                    "status": "Mechanical"
+                },
+                {
+                    "statusId": "32",
+                    "count": "2",
+                    "status": "Fuel pressure"
+                },
+                {
+                    "statusId": "33",
+                    "count": "1",
+                    "status": "Front wing"
+                },
+                {
+                    "statusId": "34",
+                    "count": "2",
+                    "status": "Water pressure"
+                },
+                {
+                    "statusId": "44",
+                    "count": "1",
+                    "status": "Oil leak"
+                },
+                {
+                    "statusId": "47",
+                    "count": "2",
+                    "status": "Water leak"
+                },
+                {
+                    "statusId": "48",
+                    "count": "1",
+                    "status": "Fuel pump"
+                },
+                {
+                    "statusId": "54",
+                    "count": "1",
+                    "status": "Withdrew"
+                },
+                {
+                    "statusId": "75",
+                    "count": "1",
+                    "status": "Power loss"
+                },
+                {
+                    "statusId": "76",
+                    "count": "1",
+                    "status": "Vibrations"
+                },
+                {
+                    "statusId": "95",
+                    "count": "1",
+                    "status": "Fuel leak"
+                },
+                {
+                    "statusId": "101",
+                    "count": "1",
+                    "status": "Turbo"
+                },
+                {
+                    "statusId": "103",
+                    "count": "1",
+                    "status": "Water pump"
+                },
+                {
+                    "statusId": "130",
+                    "count": "12",
+                    "status": "Collision damage"
+                },
+                {
+                    "statusId": "131",
+                    "count": "6",
+                    "status": "Power Unit"
+                },
+                {
+                    "statusId": "140",
+                    "count": "2",
+                    "status": "Undertray"
+                },
+                {
+                    "statusId": "141",
+                    "count": "1",
+                    "status": "Cooling system"
+                }
+            ]
+        }
+    }
+}
