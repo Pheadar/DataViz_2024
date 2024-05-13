@@ -27,7 +27,7 @@
 
 ## Project Description
 
-Exam project in the *Data Visualisation and Data-driven Decision Making* course for the BSc Program in Data Science at the IT University of Copenhagen, academic year 2023/24.
+Exam project in the *Data Visualisation and Data-driven Decision Making* course for the BSc Program in Data Science at the [IT University of Copenhagen](https://www.itu.dk/), academic year 2023/24.
 
 This is a group project, where we explore Fernando Alonso's Formula 1 career in data. We will analyze his performance over the years, his teams, and his results. The goal is to create a few visualizations that will help us understand his career better and draw some conclusions about his performance.
 
@@ -46,10 +46,10 @@ The data used in this project is sourced from the [Ergast Developer API](http://
 ## Implementation
 
 The project is implemented in Python 3.11 and uses Jupyter Notebooks. The following libraries are used:
-- plotly (https://plotly.com/python/)
-- dash (https://dash.plotly.com/)
-- pandas (https://pandas.pydata.org/)
-- beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [plotly](https://plotly.com/python/)
+- [dash](https://dash.plotly.com/)
+- [pandas](https://pandas.pydata.org/)
+- [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 Required libraries can be installed using the following command:
 ```bash
@@ -87,10 +87,10 @@ pip install -r requirements.txt
 ├── scripts
 │   ├── 01-data_scrape.py
 │   ├── 02_data_merge.py
-│   ├── 03_driver_career.py
-│   ├── 04_dataframes.py
+│   ├── 03_dataframes.py
+│   ├── 04_driver_career.py
 ├── notebooks
-│   ├── 04_dataframes.py
+│   ├── 
 ├── report
 │   └── Final_Report.pdf
 ├── requirements.txt

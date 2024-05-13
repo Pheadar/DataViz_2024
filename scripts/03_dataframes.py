@@ -1,15 +1,14 @@
 import pandas as pd
-import json
-import requests
+import json, os, re, requests
 from bs4 import BeautifulSoup
-import re
 
+treated_data = os.path.join(os.curdir, 'treated_data')
 
 
 def get_course_length(url, index, total):
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Ensure a valid response
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
         # Locate the infobox table on the Wikipedia page
@@ -26,7 +25,7 @@ def get_course_length(url, index, total):
                         km_cleaned = km_match.group(1).replace(',', '').replace('.', '')
                         # Remove any content in brackets and convert to integer
                         km_cleaned = re.sub(r'\[.*?\]', '', km_cleaned)
-                        print(f"Processed {index + 1}/{total} races: {km_cleaned} km found.")
+                        print(f"Processed {index + 1}/{total} races")
                         return int(float(km_cleaned))
     except requests.RequestException as e:
         print(f"Error fetching {url}: {str(e)}")
@@ -35,7 +34,7 @@ def get_course_length(url, index, total):
 
 
 
-with open('treated_data/all_race_results.json') as file:
+with open(f"{treated_data}{os.sep}all_race_results.json") as file:
     data = json.load(file)
 
 
@@ -158,14 +157,15 @@ for result in data:
 race_results = pd.DataFrame(results)
 
 
-
-driver_info.to_pickle('treated_data/pickles/driver_info.pkl')
-driver_info.to_csv('treated_data/csv/driver_info.csv', index=False)
-team_info.to_pickle('treated_data/pickles/team_info.pkl')
-team_info.to_csv('treated_data/csv/team_info.csv', index=False)
-race_info.to_pickle('treated_data/pickles/race_info.pkl')
-race_info.to_csv('treated_data/csv/race_info.csv', index=False)
-circuit_info.to_pickle('treated_data/pickles/circuit_info.pkl')
-circuit_info.to_csv('treated_data/csv/circuit_info.csv', index=False)
-race_results.to_pickle('treated_data/pickles/results.pkl')
-race_results.to_csv('treated_data/csv/results.csv', index=False)
+pickles_folder = os.path.join(treated_data, 'pickles')
+csv_folder = os.path.join(treated_data, 'csv')
+driver_info.to_pickle(os.path.join(pickles_folder, 'driver_info.pkl'))
+driver_info.to_csv(os.path.join(csv_folder, 'driver_info.csv'), index=False)
+team_info.to_pickle(os.path.join(pickles_folder, 'team_info.pkl'))
+team_info.to_csv(os.path.join(csv_folder, 'team_info.csv'), index=False)
+race_info.to_pickle(os.path.join(pickles_folder, 'race_info.pkl'))
+race_info.to_csv(os.path.join(csv_folder, 'race_info.csv'), index=False)
+circuit_info.to_pickle(os.path.join(pickles_folder, 'circuit_info.pkl'))
+circuit_info.to_csv(os.path.join(csv_folder, 'circuit_info.csv'), index=False)
+race_results.to_pickle(os.path.join(pickles_folder, 'results.pkl'))
+race_results.to_csv(os.path.join(csv_folder, 'results.csv'), index=False)
