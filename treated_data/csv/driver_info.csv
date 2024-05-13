@@ -1,0 +1,123 @@
+driverId,driverCode,driverName,driverNationality,dob
+michael_schumacher,MSC,Michael Schumacher,German,1969-01-03
+coulthard,COU,David Coulthard,British,1971-03-27
+barrichello,BAR,Rubens Barrichello,Brazilian,1972-05-23
+heidfeld,HEI,Nick Heidfeld,German,1977-05-10
+frentzen,N/A,Heinz-Harald Frentzen,German,1967-05-18
+raikkonen,RAI,Kimi Räikkönen,Finnish,1979-10-17
+panis,N/A,Olivier Panis,French,1966-09-02
+burti,N/A,Luciano Burti,Brazilian,1975-03-05
+alesi,N/A,Jean Alesi,French,1964-06-11
+verstappen,N/A,Jos Verstappen,Dutch,1972-03-04
+irvine,N/A,Eddie Irvine,British,1965-11-10
+alonso,ALO,Fernando Alonso,Spanish,1981-07-29
+fisichella,FIS,Giancarlo Fisichella,Italian,1973-01-14
+button,BUT,Jenson Button,British,1980-01-19
+montoya,MON,Juan Pablo Montoya,Colombian,1975-09-20
+trulli,TRU,Jarno Trulli,Italian,1974-07-13
+hakkinen,N/A,Mika Häkkinen,Finnish,1968-09-28
+ralf_schumacher,SCH,Ralf Schumacher,German,1975-06-30
+villeneuve,VIL,Jacques Villeneuve,Canadian,1971-04-09
+marques,N/A,Tarso Marques,Brazilian,1976-01-19
+bernoldi,N/A,Enrique Bernoldi,Brazilian,1978-10-19
+mazzacane,N/A,Gastón Mazzacane,Argentine,1975-05-08
+rosa,DLR,Pedro de la Rosa,Spanish,1971-02-24
+zonta,ZON,Ricardo Zonta,Brazilian,1976-03-23
+enge,N/A,Tomáš Enge,Czech,1976-09-11
+yoong,N/A,Alex Yoong,Malaysian,1976-07-20
+webber,WEB,Mark Webber,Australian,1976-08-27
+salo,N/A,Mika Salo,Finnish,1966-11-30
+sato,SAT,Takuma Sato,Japanese,1977-01-28
+massa,MAS,Felipe Massa,Brazilian,1981-04-25
+mcnish,N/A,Allan McNish,British,1969-12-29
+davidson,DAV,Anthony Davidson,British,1979-04-18
+pizzonia,PIZ,Antônio Pizzonia,Brazilian,1980-09-11
+wilson,N/A,Justin Wilson,British,1978-07-31
+matta,N/A,Cristiano da Matta,Brazilian,1973-09-19
+firman,N/A,Ralph Firman,Irish,1975-05-20
+kiesa,N/A,Nicolas Kiesa,Danish,1978-03-03
+baumgartner,N/A,Zsolt Baumgartner,Hungarian,1981-01-01
+gene,N/A,Marc Gené,Spanish,1974-03-29
+klien,KLI,Christian Klien,Austrian,1983-02-07
+pantano,N/A,Giorgio Pantano,Italian,1979-02-04
+bruni,N/A,Gianmaria Bruni,Italian,1981-05-30
+glock,GLO,Timo Glock,German,1982-03-18
+karthikeyan,KAR,Narain Karthikeyan,Indian,1977-01-14
+monteiro,TMO,Tiago Monteiro,Portuguese,1976-07-24
+friesacher,FRI,Patrick Friesacher,Austrian,1980-09-26
+albers,ALB,Christijan Albers,Dutch,1979-04-16
+wurz,WUR,Alexander Wurz,Austrian,1974-02-15
+liuzzi,LIU,Vitantonio Liuzzi,Italian,1980-08-06
+doornbos,DOO,Robert Doornbos,Dutch,1981-09-23
+rosberg,ROS,Nico Rosberg,German,1985-06-27
+speed,SPE,Scott Speed,American,1983-01-24
+ide,IDE,Yuji Ide,Japanese,1975-01-21
+montagny,FMO,Franck Montagny,French,1978-01-05
+yamamoto,YAM,Sakon Yamamoto,Japanese,1982-07-09
+kubica,KUB,Robert Kubica,Polish,1984-12-07
+hamilton,HAM,Lewis Hamilton,British,1985-01-07
+kovalainen,KOV,Heikki Kovalainen,Finnish,1981-10-19
+sutil,SUT,Adrian Sutil,German,1983-01-11
+vettel,VET,Sebastian Vettel,German,1987-07-03
+markus_winkelhock,WIN,Markus Winkelhock,German,1980-06-13
+nakajima,NAK,Kazuki Nakajima,Japanese,1985-01-11
+bourdais,BOU,Sébastien Bourdais,French,1979-02-28
+piquet_jr,PIQ,Nelson Piquet Jr.,Brazilian,1985-07-25
+buemi,BUE,Sébastien Buemi,Swiss,1988-10-31
+alguersuari,ALG,Jaime Alguersuari,Spanish,1990-03-23
+grosjean,GRO,Romain Grosjean,French,1986-04-17
+badoer,BAD,Luca Badoer,Italian,1971-01-25
+kobayashi,KOB,Kamui Kobayashi,Japanese,1986-09-13
+hulkenberg,HUL,Nico Hülkenberg,German,1987-08-19
+bruno_senna,SEN,Bruno Senna,Brazilian,1983-10-15
+petrov,PET,Vitaly Petrov,Russian,1984-09-08
+grassi,DIG,Lucas di Grassi,Brazilian,1984-08-11
+chandhok,CHA,Karun Chandhok,Indian,1984-01-19
+resta,DIR,Paul di Resta,British,1986-04-16
+ambrosio,DAM,Jérôme d'Ambrosio,Belgian,1985-12-27
+maldonado,MAL,Pastor Maldonado,Venezuelan,1985-03-09
+perez,PER,Sergio Pérez,Mexican,1990-01-26
+ricciardo,RIC,Daniel Ricciardo,Australian,1989-07-01
+vergne,VER,Jean-Éric Vergne,French,1990-04-25
+pic,PIC,Charles Pic,French,1990-02-15
+gutierrez,GUT,Esteban Gutiérrez,Mexican,1991-08-05
+bottas,BOT,Valtteri Bottas,Finnish,1989-08-28
+jules_bianchi,BIA,Jules Bianchi,French,1989-08-03
+chilton,CHI,Max Chilton,British,1991-04-21
+garde,VDG,Giedo van der Garde,Dutch,1985-04-25
+kevin_magnussen,MAG,Kevin Magnussen,Danish,1992-10-05
+kvyat,KVY,Daniil Kvyat,Russian,1994-04-26
+ericsson,ERI,Marcus Ericsson,Swedish,1990-09-02
+lotterer,LOT,André Lotterer,German,1981-11-19
+stevens,STE,Will Stevens,British,1991-06-28
+nasr,NAS,Felipe Nasr,Brazilian,1992-08-21
+sainz,SAI,Carlos Sainz,Spanish,1994-09-01
+max_verstappen,VER,Max Verstappen,Dutch,1997-09-30
+merhi,MER,Roberto Merhi,Spanish,1991-03-22
+rossi,RSS,Alexander Rossi,American,1991-09-25
+jolyon_palmer,PAL,Jolyon Palmer,British,1991-01-20
+wehrlein,WEH,Pascal Wehrlein,German,1994-10-18
+haryanto,HAR,Rio Haryanto,Indonesian,1993-01-22
+vandoorne,VAN,Stoffel Vandoorne,Belgian,1992-03-26
+ocon,OCO,Esteban Ocon,French,1996-09-17
+giovinazzi,GIO,Antonio Giovinazzi,Italian,1993-12-14
+stroll,STR,Lance Stroll,Canadian,1998-10-29
+gasly,GAS,Pierre Gasly,French,1996-02-07
+brendon_hartley,HAR,Brendon Hartley,New Zealander,1989-11-10
+leclerc,LEC,Charles Leclerc,Monegasque,1997-10-16
+sirotkin,SIR,Sergey Sirotkin,Russian,1995-08-27
+norris,NOR,Lando Norris,British,1999-11-13
+albon,ALB,Alexander Albon,Thai,1996-03-23
+russell,RUS,George Russell,British,1998-02-15
+latifi,LAT,Nicholas Latifi,Canadian,1995-06-29
+aitken,AIT,Jack Aitken,British,1995-09-23
+pietro_fittipaldi,FIT,Pietro Fittipaldi,Brazilian,1996-06-25
+tsunoda,TSU,Yuki Tsunoda,Japanese,2000-05-11
+mick_schumacher,MSC,Mick Schumacher,German,1999-03-22
+mazepin,MAZ,Nikita Mazepin,Russian,1999-03-02
+zhou,ZHO,Guanyu Zhou,Chinese,1999-05-30
+de_vries,DEV,Nyck de Vries,Dutch,1995-02-06
+sargeant,SAR,Logan Sargeant,American,2000-12-31
+piastri,PIA,Oscar Piastri,Australian,2001-04-06
+lawson,LAW,Liam Lawson,New Zealander,2002-02-11
+bearman,BEA,Oliver Bearman,British,2005-05-08
