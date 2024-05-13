@@ -1,5 +1,37 @@
 import pandas as pd
 import json
+import requests
+from bs4 import BeautifulSoup
+import re
+
+
+
+def get_course_length(url, index, total):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Ensure a valid response
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Locate the infobox table on the Wikipedia page
+        infobox = soup.find('table', class_='infobox')
+        if infobox:
+            rows = infobox.find_all('tr')
+            for row in rows:
+                header = row.find('th')
+                if header and 'Course length' in header.text:
+                    length_text = row.find('td').text.strip()
+                    # Extract the kilometers part and clean it
+                    km_match = re.search(r'(\d+[.,]?\d*)\s*km', length_text)
+                    if km_match:
+                        km_cleaned = km_match.group(1).replace(',', '').replace('.', '')
+                        # Remove any content in brackets and convert to integer
+                        km_cleaned = re.sub(r'\[.*?\]', '', km_cleaned)
+                        print(f"Processed {index + 1}/{total} races: {km_cleaned} km found.")
+                        return int(float(km_cleaned))
+    except requests.RequestException as e:
+        print(f"Error fetching {url}: {str(e)}")
+    print(f"Processed {index + 1}/{total} races: No course length found.")
+    return None
 
 
 
@@ -50,19 +82,28 @@ for result in data:
     season = result['MRData']['RaceTable']['season']
     round = result['MRData']['RaceTable']['round']
     for race in result['MRData']['RaceTable']['Races']:
-        for result in race['Results']:
-            race_info = {
-                'season': season,
-                'round': round,
-                'raceName': race['raceName'],
-                'raceId': race['raceName'] + ' ' + season,
-                'url': race['url'],
-                'date': race['date'],
-                'circuitId': race['Circuit']['circuitId'],
-            }
-            races.append(race_info)
+        race_data = {
+            'season': season,
+            'round': round,
+            'raceName': race['raceName'],
+            'raceId': race['raceName'] + ' ' + season,
+            'url': race['url'],
+            'date': race['date'],
+            'circuitId': race['Circuit']['circuitId'],
+        }
+        races.append(race_data)
 race_info = pd.DataFrame(races)
 race_info = race_info.drop_duplicates(subset=['circuitId', 'date'])
+
+total_number = race_info.shape[0]
+print(f"Starting to find course length for {total_number} races...")
+
+course_lengths = []
+for idx, row in race_info.iterrows():
+    course_length = get_course_length(row['url'], idx, total_number)
+    course_lengths.append(course_length)
+
+race_info['course_length_km'] = course_lengths
 
 
 
