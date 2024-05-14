@@ -19,17 +19,17 @@ def get_course_length(url, index, total):
                 header = row.find('th')
                 if header and 'Course length' in header.text:
                     length_text = row.find('td').text.strip()
+                    # Remove any content in brackets
+                    length_text = re.sub(r'\[.*?\]', '', length_text)
                     # Extract the kilometers part and clean it
                     km_match = re.search(r'(\d+[.,]?\d*)\s*km', length_text)
                     if km_match:
-                        km_cleaned = km_match.group(1).replace(',', '').replace('.', '')
-                        # Remove any content in brackets and convert to integer
-                        km_cleaned = re.sub(r'\[.*?\]', '', km_cleaned)
+                        km_cleaned = km_match.group(1).replace(',', '.')
                         print(f"Processed {index + 1}/{total} races")
-                        return int(float(km_cleaned))
+                        return float(km_cleaned)
     except requests.RequestException as e:
         print(f"Error fetching {url}: {str(e)}")
-    print(f"Processed {index + 1}/{total} races: No course length found.")
+    print(f"Processed {index + 1}/{total} races ({url}): No course length found.")
     return None
 
 
