@@ -2,8 +2,6 @@
 
 import pandas as pd
 import os
-import json
-
 
 # load data
 base_path = os.path.join(os.curdir, 'treated_data')
