@@ -1,0 +1,377 @@
+driverId,raceId,cumulative_points,points_total
+alonso,Australian Grand Prix 2005,6.0,133.0
+alonso,Bahrain Grand Prix 2005,16.0,133.0
+alonso,Belgian Grand Prix 2005,24.0,133.0
+alonso,Brazilian Grand Prix 2005,30.0,133.0
+alonso,British Grand Prix 2005,38.0,133.0
+alonso,Canadian Grand Prix 2005,38.0,133.0
+alonso,Chinese Grand Prix 2005,48.0,133.0
+alonso,European Grand Prix 2005,58.0,133.0
+alonso,French Grand Prix 2005,68.0,133.0
+alonso,German Grand Prix 2005,78.0,133.0
+alonso,Hungarian Grand Prix 2005,78.0,133.0
+alonso,Italian Grand Prix 2005,86.0,133.0
+alonso,Japanese Grand Prix 2005,92.0,133.0
+alonso,Malaysian Grand Prix 2005,102.0,133.0
+alonso,Monaco Grand Prix 2005,107.0,133.0
+alonso,San Marino Grand Prix 2005,117.0,133.0
+alonso,Spanish Grand Prix 2005,125.0,133.0
+alonso,Turkish Grand Prix 2005,133.0,133.0
+alonso,United States Grand Prix 2005,133.0,133.0
+raikkonen,Australian Grand Prix 2005,1.0,112.0
+raikkonen,Bahrain Grand Prix 2005,7.0,112.0
+raikkonen,Belgian Grand Prix 2005,17.0,112.0
+raikkonen,Brazilian Grand Prix 2005,25.0,112.0
+raikkonen,British Grand Prix 2005,31.0,112.0
+raikkonen,Canadian Grand Prix 2005,41.0,112.0
+raikkonen,Chinese Grand Prix 2005,49.0,112.0
+raikkonen,European Grand Prix 2005,49.0,112.0
+raikkonen,French Grand Prix 2005,57.0,112.0
+raikkonen,German Grand Prix 2005,57.0,112.0
+raikkonen,Hungarian Grand Prix 2005,67.0,112.0
+raikkonen,Italian Grand Prix 2005,72.0,112.0
+raikkonen,Japanese Grand Prix 2005,82.0,112.0
+raikkonen,Malaysian Grand Prix 2005,82.0,112.0
+raikkonen,Monaco Grand Prix 2005,92.0,112.0
+raikkonen,San Marino Grand Prix 2005,92.0,112.0
+raikkonen,Spanish Grand Prix 2005,102.0,112.0
+raikkonen,Turkish Grand Prix 2005,112.0,112.0
+raikkonen,United States Grand Prix 2005,112.0,112.0
+michael_schumacher,Australian Grand Prix 2005,0.0,62.0
+michael_schumacher,Bahrain Grand Prix 2005,0.0,62.0
+michael_schumacher,Belgian Grand Prix 2005,0.0,62.0
+michael_schumacher,Brazilian Grand Prix 2005,5.0,62.0
+michael_schumacher,British Grand Prix 2005,8.0,62.0
+michael_schumacher,Canadian Grand Prix 2005,16.0,62.0
+michael_schumacher,Chinese Grand Prix 2005,16.0,62.0
+michael_schumacher,European Grand Prix 2005,20.0,62.0
+michael_schumacher,French Grand Prix 2005,26.0,62.0
+michael_schumacher,German Grand Prix 2005,30.0,62.0
+michael_schumacher,Hungarian Grand Prix 2005,38.0,62.0
+michael_schumacher,Italian Grand Prix 2005,38.0,62.0
+michael_schumacher,Japanese Grand Prix 2005,40.0,62.0
+michael_schumacher,Malaysian Grand Prix 2005,42.0,62.0
+michael_schumacher,Monaco Grand Prix 2005,44.0,62.0
+michael_schumacher,San Marino Grand Prix 2005,52.0,62.0
+michael_schumacher,Spanish Grand Prix 2005,52.0,62.0
+michael_schumacher,Turkish Grand Prix 2005,52.0,62.0
+michael_schumacher,United States Grand Prix 2005,62.0,62.0
+montoya,Australian Grand Prix 2005,3.0,60.0
+montoya,Belgian Grand Prix 2005,3.0,60.0
+montoya,Brazilian Grand Prix 2005,13.0,60.0
+montoya,British Grand Prix 2005,23.0,60.0
+montoya,Canadian Grand Prix 2005,23.0,60.0
+montoya,Chinese Grand Prix 2005,23.0,60.0
+montoya,European Grand Prix 2005,25.0,60.0
+montoya,French Grand Prix 2005,25.0,60.0
+montoya,German Grand Prix 2005,33.0,60.0
+montoya,Hungarian Grand Prix 2005,33.0,60.0
+montoya,Italian Grand Prix 2005,43.0,60.0
+montoya,Japanese Grand Prix 2005,43.0,60.0
+montoya,Malaysian Grand Prix 2005,48.0,60.0
+montoya,Monaco Grand Prix 2005,52.0,60.0
+montoya,Spanish Grand Prix 2005,54.0,60.0
+montoya,Turkish Grand Prix 2005,60.0,60.0
+montoya,United States Grand Prix 2005,60.0,60.0
+fisichella,Australian Grand Prix 2005,10.0,58.0
+fisichella,Bahrain Grand Prix 2005,10.0,58.0
+fisichella,Belgian Grand Prix 2005,10.0,58.0
+fisichella,Brazilian Grand Prix 2005,14.0,58.0
+fisichella,British Grand Prix 2005,19.0,58.0
+fisichella,Canadian Grand Prix 2005,19.0,58.0
+fisichella,Chinese Grand Prix 2005,24.0,58.0
+fisichella,European Grand Prix 2005,27.0,58.0
+fisichella,French Grand Prix 2005,30.0,58.0
+fisichella,German Grand Prix 2005,35.0,58.0
+fisichella,Hungarian Grand Prix 2005,35.0,58.0
+fisichella,Italian Grand Prix 2005,41.0,58.0
+fisichella,Japanese Grand Prix 2005,49.0,58.0
+fisichella,Malaysian Grand Prix 2005,49.0,58.0
+fisichella,Monaco Grand Prix 2005,49.0,58.0
+fisichella,San Marino Grand Prix 2005,49.0,58.0
+fisichella,Spanish Grand Prix 2005,53.0,58.0
+fisichella,Turkish Grand Prix 2005,58.0,58.0
+fisichella,United States Grand Prix 2005,58.0,58.0
+ralf_schumacher,Australian Grand Prix 2005,0.0,45.0
+ralf_schumacher,Bahrain Grand Prix 2005,5.0,45.0
+ralf_schumacher,Belgian Grand Prix 2005,7.0,45.0
+ralf_schumacher,Brazilian Grand Prix 2005,8.0,45.0
+ralf_schumacher,British Grand Prix 2005,9.0,45.0
+ralf_schumacher,Canadian Grand Prix 2005,12.0,45.0
+ralf_schumacher,Chinese Grand Prix 2005,18.0,45.0
+ralf_schumacher,European Grand Prix 2005,18.0,45.0
+ralf_schumacher,French Grand Prix 2005,20.0,45.0
+ralf_schumacher,German Grand Prix 2005,23.0,45.0
+ralf_schumacher,Hungarian Grand Prix 2005,29.0,45.0
+ralf_schumacher,Italian Grand Prix 2005,32.0,45.0
+ralf_schumacher,Japanese Grand Prix 2005,33.0,45.0
+ralf_schumacher,Malaysian Grand Prix 2005,37.0,45.0
+ralf_schumacher,Monaco Grand Prix 2005,40.0,45.0
+ralf_schumacher,San Marino Grand Prix 2005,40.0,45.0
+ralf_schumacher,Spanish Grand Prix 2005,45.0,45.0
+ralf_schumacher,Turkish Grand Prix 2005,45.0,45.0
+trulli,Australian Grand Prix 2005,0.0,43.0
+trulli,Bahrain Grand Prix 2005,8.0,43.0
+trulli,Belgian Grand Prix 2005,8.0,43.0
+trulli,Brazilian Grand Prix 2005,8.0,43.0
+trulli,British Grand Prix 2005,8.0,43.0
+trulli,Canadian Grand Prix 2005,8.0,43.0
+trulli,Chinese Grand Prix 2005,8.0,43.0
+trulli,European Grand Prix 2005,9.0,43.0
+trulli,French Grand Prix 2005,13.0,43.0
+trulli,German Grand Prix 2005,13.0,43.0
+trulli,Hungarian Grand Prix 2005,18.0,43.0
+trulli,Italian Grand Prix 2005,22.0,43.0
+trulli,Japanese Grand Prix 2005,22.0,43.0
+trulli,Malaysian Grand Prix 2005,30.0,43.0
+trulli,Monaco Grand Prix 2005,30.0,43.0
+trulli,San Marino Grand Prix 2005,34.0,43.0
+trulli,Spanish Grand Prix 2005,40.0,43.0
+trulli,Turkish Grand Prix 2005,43.0,43.0
+trulli,United States Grand Prix 2005,43.0,43.0
+barrichello,Australian Grand Prix 2005,8.0,38.0
+barrichello,Bahrain Grand Prix 2005,8.0,38.0
+barrichello,Belgian Grand Prix 2005,12.0,38.0
+barrichello,Brazilian Grand Prix 2005,15.0,38.0
+barrichello,British Grand Prix 2005,17.0,38.0
+barrichello,Canadian Grand Prix 2005,23.0,38.0
+barrichello,Chinese Grand Prix 2005,23.0,38.0
+barrichello,European Grand Prix 2005,29.0,38.0
+barrichello,French Grand Prix 2005,29.0,38.0
+barrichello,German Grand Prix 2005,29.0,38.0
+barrichello,Hungarian Grand Prix 2005,29.0,38.0
+barrichello,Italian Grand Prix 2005,29.0,38.0
+barrichello,Japanese Grand Prix 2005,29.0,38.0
+barrichello,Malaysian Grand Prix 2005,29.0,38.0
+barrichello,Monaco Grand Prix 2005,30.0,38.0
+barrichello,San Marino Grand Prix 2005,30.0,38.0
+barrichello,Spanish Grand Prix 2005,30.0,38.0
+barrichello,Turkish Grand Prix 2005,30.0,38.0
+barrichello,United States Grand Prix 2005,38.0,38.0
+button,Australian Grand Prix 2005,0.0,37.0
+button,Bahrain Grand Prix 2005,0.0,37.0
+button,Belgian Grand Prix 2005,6.0,37.0
+button,Brazilian Grand Prix 2005,8.0,37.0
+button,British Grand Prix 2005,12.0,37.0
+button,Canadian Grand Prix 2005,12.0,37.0
+button,Chinese Grand Prix 2005,13.0,37.0
+button,European Grand Prix 2005,13.0,37.0
+button,French Grand Prix 2005,18.0,37.0
+button,German Grand Prix 2005,24.0,37.0
+button,Hungarian Grand Prix 2005,28.0,37.0
+button,Italian Grand Prix 2005,29.0,37.0
+button,Japanese Grand Prix 2005,33.0,37.0
+button,Malaysian Grand Prix 2005,33.0,37.0
+button,San Marino Grand Prix 2005,33.0,37.0
+button,Turkish Grand Prix 2005,37.0,37.0
+button,United States Grand Prix 2005,37.0,37.0
+webber,Australian Grand Prix 2005,4.0,36.0
+webber,Bahrain Grand Prix 2005,7.0,36.0
+webber,Belgian Grand Prix 2005,12.0,36.0
+webber,Brazilian Grand Prix 2005,12.0,36.0
+webber,British Grand Prix 2005,12.0,36.0
+webber,Canadian Grand Prix 2005,16.0,36.0
+webber,Chinese Grand Prix 2005,18.0,36.0
+webber,European Grand Prix 2005,18.0,36.0
+webber,French Grand Prix 2005,18.0,36.0
+webber,German Grand Prix 2005,18.0,36.0
+webber,Hungarian Grand Prix 2005,20.0,36.0
+webber,Italian Grand Prix 2005,20.0,36.0
+webber,Japanese Grand Prix 2005,25.0,36.0
+webber,Malaysian Grand Prix 2005,25.0,36.0
+webber,Monaco Grand Prix 2005,31.0,36.0
+webber,San Marino Grand Prix 2005,33.0,36.0
+webber,Spanish Grand Prix 2005,36.0,36.0
+webber,Turkish Grand Prix 2005,36.0,36.0
+webber,United States Grand Prix 2005,36.0,36.0
+heidfeld,Australian Grand Prix 2005,0.0,28.0
+heidfeld,Bahrain Grand Prix 2005,0.0,28.0
+heidfeld,British Grand Prix 2005,0.0,28.0
+heidfeld,Canadian Grand Prix 2005,0.0,28.0
+heidfeld,European Grand Prix 2005,8.0,28.0
+heidfeld,French Grand Prix 2005,8.0,28.0
+heidfeld,German Grand Prix 2005,8.0,28.0
+heidfeld,Hungarian Grand Prix 2005,11.0,28.0
+heidfeld,Malaysian Grand Prix 2005,17.0,28.0
+heidfeld,Monaco Grand Prix 2005,25.0,28.0
+heidfeld,San Marino Grand Prix 2005,28.0,28.0
+heidfeld,Spanish Grand Prix 2005,28.0,28.0
+heidfeld,Turkish Grand Prix 2005,28.0,28.0
+heidfeld,United States Grand Prix 2005,28.0,28.0
+coulthard,Australian Grand Prix 2005,5.0,24.0
+coulthard,Bahrain Grand Prix 2005,6.0,24.0
+coulthard,Belgian Grand Prix 2005,6.0,24.0
+coulthard,Brazilian Grand Prix 2005,6.0,24.0
+coulthard,British Grand Prix 2005,6.0,24.0
+coulthard,Canadian Grand Prix 2005,8.0,24.0
+coulthard,Chinese Grand Prix 2005,8.0,24.0
+coulthard,European Grand Prix 2005,13.0,24.0
+coulthard,French Grand Prix 2005,13.0,24.0
+coulthard,German Grand Prix 2005,15.0,24.0
+coulthard,Hungarian Grand Prix 2005,15.0,24.0
+coulthard,Italian Grand Prix 2005,15.0,24.0
+coulthard,Japanese Grand Prix 2005,18.0,24.0
+coulthard,Malaysian Grand Prix 2005,21.0,24.0
+coulthard,Monaco Grand Prix 2005,21.0,24.0
+coulthard,San Marino Grand Prix 2005,21.0,24.0
+coulthard,Spanish Grand Prix 2005,22.0,24.0
+coulthard,Turkish Grand Prix 2005,24.0,24.0
+coulthard,United States Grand Prix 2005,24.0,24.0
+massa,Australian Grand Prix 2005,0.0,11.0
+massa,Bahrain Grand Prix 2005,2.0,11.0
+massa,Belgian Grand Prix 2005,2.0,11.0
+massa,Brazilian Grand Prix 2005,2.0,11.0
+massa,British Grand Prix 2005,2.0,11.0
+massa,Canadian Grand Prix 2005,7.0,11.0
+massa,Chinese Grand Prix 2005,10.0,11.0
+massa,European Grand Prix 2005,10.0,11.0
+massa,French Grand Prix 2005,10.0,11.0
+massa,German Grand Prix 2005,11.0,11.0
+massa,Hungarian Grand Prix 2005,11.0,11.0
+massa,Italian Grand Prix 2005,11.0,11.0
+massa,Japanese Grand Prix 2005,11.0,11.0
+massa,Malaysian Grand Prix 2005,11.0,11.0
+massa,Monaco Grand Prix 2005,11.0,11.0
+massa,San Marino Grand Prix 2005,11.0,11.0
+massa,Spanish Grand Prix 2005,11.0,11.0
+massa,Turkish Grand Prix 2005,11.0,11.0
+massa,United States Grand Prix 2005,11.0,11.0
+villeneuve,Australian Grand Prix 2005,0.0,9.0
+klien,Australian Grand Prix 2005,2.0,9.0
+villeneuve,Bahrain Grand Prix 2005,0.0,9.0
+klien,Bahrain Grand Prix 2005,2.0,9.0
+klien,Belgian Grand Prix 2005,2.0,9.0
+villeneuve,Belgian Grand Prix 2005,3.0,9.0
+klien,Brazilian Grand Prix 2005,2.0,9.0
+villeneuve,Brazilian Grand Prix 2005,3.0,9.0
+villeneuve,British Grand Prix 2005,3.0,9.0
+klien,British Grand Prix 2005,2.0,9.0
+klien,Canadian Grand Prix 2005,3.0,9.0
+villeneuve,Canadian Grand Prix 2005,3.0,9.0
+klien,Chinese Grand Prix 2005,7.0,9.0
+villeneuve,Chinese Grand Prix 2005,3.0,9.0
+villeneuve,European Grand Prix 2005,3.0,9.0
+villeneuve,French Grand Prix 2005,4.0,9.0
+klien,French Grand Prix 2005,7.0,9.0
+klien,German Grand Prix 2005,7.0,9.0
+villeneuve,German Grand Prix 2005,4.0,9.0
+klien,Hungarian Grand Prix 2005,7.0,9.0
+villeneuve,Hungarian Grand Prix 2005,4.0,9.0
+klien,Italian Grand Prix 2005,7.0,9.0
+villeneuve,Italian Grand Prix 2005,4.0,9.0
+villeneuve,Japanese Grand Prix 2005,4.0,9.0
+klien,Japanese Grand Prix 2005,7.0,9.0
+villeneuve,Malaysian Grand Prix 2005,4.0,9.0
+klien,Malaysian Grand Prix 2005,8.0,9.0
+villeneuve,Monaco Grand Prix 2005,4.0,9.0
+villeneuve,San Marino Grand Prix 2005,9.0,9.0
+villeneuve,Spanish Grand Prix 2005,9.0,9.0
+villeneuve,Turkish Grand Prix 2005,9.0,9.0
+klien,Turkish Grand Prix 2005,9.0,9.0
+klien,United States Grand Prix 2005,9.0,9.0
+villeneuve,United States Grand Prix 2005,9.0,9.0
+monteiro,Australian Grand Prix 2005,0.0,7.0
+monteiro,Bahrain Grand Prix 2005,0.0,7.0
+monteiro,Belgian Grand Prix 2005,1.0,7.0
+monteiro,Brazilian Grand Prix 2005,1.0,7.0
+monteiro,British Grand Prix 2005,1.0,7.0
+monteiro,Canadian Grand Prix 2005,1.0,7.0
+monteiro,Chinese Grand Prix 2005,1.0,7.0
+monteiro,European Grand Prix 2005,1.0,7.0
+monteiro,French Grand Prix 2005,1.0,7.0
+monteiro,German Grand Prix 2005,1.0,7.0
+monteiro,Hungarian Grand Prix 2005,1.0,7.0
+monteiro,Italian Grand Prix 2005,1.0,7.0
+monteiro,Japanese Grand Prix 2005,1.0,7.0
+monteiro,Malaysian Grand Prix 2005,1.0,7.0
+monteiro,Monaco Grand Prix 2005,1.0,7.0
+monteiro,San Marino Grand Prix 2005,1.0,7.0
+monteiro,Spanish Grand Prix 2005,1.0,7.0
+monteiro,Turkish Grand Prix 2005,1.0,7.0
+monteiro,United States Grand Prix 2005,7.0,7.0
+wurz,San Marino Grand Prix 2005,6.0,6.0
+karthikeyan,Australian Grand Prix 2005,0.0,5.0
+karthikeyan,Bahrain Grand Prix 2005,0.0,5.0
+karthikeyan,Belgian Grand Prix 2005,0.0,5.0
+karthikeyan,Brazilian Grand Prix 2005,0.0,5.0
+karthikeyan,British Grand Prix 2005,0.0,5.0
+karthikeyan,Canadian Grand Prix 2005,0.0,5.0
+karthikeyan,Chinese Grand Prix 2005,0.0,5.0
+karthikeyan,European Grand Prix 2005,0.0,5.0
+karthikeyan,French Grand Prix 2005,0.0,5.0
+karthikeyan,German Grand Prix 2005,0.0,5.0
+karthikeyan,Hungarian Grand Prix 2005,0.0,5.0
+karthikeyan,Italian Grand Prix 2005,0.0,5.0
+karthikeyan,Japanese Grand Prix 2005,0.0,5.0
+karthikeyan,Malaysian Grand Prix 2005,0.0,5.0
+karthikeyan,Monaco Grand Prix 2005,0.0,5.0
+karthikeyan,San Marino Grand Prix 2005,0.0,5.0
+karthikeyan,Spanish Grand Prix 2005,0.0,5.0
+karthikeyan,Turkish Grand Prix 2005,0.0,5.0
+karthikeyan,United States Grand Prix 2005,5.0,5.0
+albers,Australian Grand Prix 2005,0.0,4.0
+rosa,Bahrain Grand Prix 2005,4.0,4.0
+albers,Bahrain Grand Prix 2005,0.0,4.0
+albers,Belgian Grand Prix 2005,0.0,4.0
+albers,Brazilian Grand Prix 2005,0.0,4.0
+albers,British Grand Prix 2005,0.0,4.0
+albers,Canadian Grand Prix 2005,0.0,4.0
+albers,Chinese Grand Prix 2005,0.0,4.0
+albers,European Grand Prix 2005,0.0,4.0
+albers,French Grand Prix 2005,0.0,4.0
+albers,German Grand Prix 2005,0.0,4.0
+albers,Hungarian Grand Prix 2005,0.0,4.0
+albers,Italian Grand Prix 2005,0.0,4.0
+albers,Japanese Grand Prix 2005,0.0,4.0
+albers,Malaysian Grand Prix 2005,0.0,4.0
+albers,Monaco Grand Prix 2005,0.0,4.0
+albers,San Marino Grand Prix 2005,0.0,4.0
+albers,Spanish Grand Prix 2005,0.0,4.0
+albers,Turkish Grand Prix 2005,0.0,4.0
+albers,United States Grand Prix 2005,4.0,4.0
+friesacher,Australian Grand Prix 2005,0.0,3.0
+friesacher,Bahrain Grand Prix 2005,0.0,3.0
+friesacher,British Grand Prix 2005,0.0,3.0
+friesacher,Canadian Grand Prix 2005,0.0,3.0
+friesacher,European Grand Prix 2005,0.0,3.0
+friesacher,French Grand Prix 2005,0.0,3.0
+friesacher,Malaysian Grand Prix 2005,0.0,3.0
+friesacher,Monaco Grand Prix 2005,0.0,3.0
+friesacher,San Marino Grand Prix 2005,0.0,3.0
+friesacher,Spanish Grand Prix 2005,0.0,3.0
+friesacher,United States Grand Prix 2005,3.0,3.0
+pizzonia,Belgian Grand Prix 2005,0.0,2.0
+pizzonia,Brazilian Grand Prix 2005,0.0,2.0
+pizzonia,Chinese Grand Prix 2005,0.0,2.0
+pizzonia,Italian Grand Prix 2005,2.0,2.0
+pizzonia,Japanese Grand Prix 2005,2.0,2.0
+sato,Australian Grand Prix 2005,0.0,1.0
+sato,Bahrain Grand Prix 2005,0.0,1.0
+sato,Belgian Grand Prix 2005,0.0,1.0
+sato,Brazilian Grand Prix 2005,0.0,1.0
+sato,British Grand Prix 2005,0.0,1.0
+sato,Canadian Grand Prix 2005,0.0,1.0
+sato,Chinese Grand Prix 2005,0.0,1.0
+liuzzi,European Grand Prix 2005,0.0,1.0
+sato,European Grand Prix 2005,0.0,1.0
+sato,French Grand Prix 2005,0.0,1.0
+sato,German Grand Prix 2005,0.0,1.0
+sato,Hungarian Grand Prix 2005,1.0,1.0
+sato,Italian Grand Prix 2005,1.0,1.0
+sato,Japanese Grand Prix 2005,1.0,1.0
+liuzzi,Monaco Grand Prix 2005,0.0,1.0
+sato,San Marino Grand Prix 2005,1.0,1.0
+liuzzi,San Marino Grand Prix 2005,1.0,1.0
+liuzzi,Spanish Grand Prix 2005,1.0,1.0
+sato,Turkish Grand Prix 2005,1.0,1.0
+sato,United States Grand Prix 2005,1.0,1.0
+doornbos,Belgian Grand Prix 2005,0.0,0.0
+doornbos,Brazilian Grand Prix 2005,0.0,0.0
+doornbos,Chinese Grand Prix 2005,0.0,0.0
+doornbos,German Grand Prix 2005,0.0,0.0
+doornbos,Hungarian Grand Prix 2005,0.0,0.0
+doornbos,Italian Grand Prix 2005,0.0,0.0
+doornbos,Japanese Grand Prix 2005,0.0,0.0
+davidson,Malaysian Grand Prix 2005,0.0,0.0
+doornbos,Turkish Grand Prix 2005,0.0,0.0
+zonta,United States Grand Prix 2005,0.0,0.0

@@ -1,0 +1,397 @@
+driverId,raceId,cumulative_points,points_total
+alonso,Australian Grand Prix 2006,10.0,134.0
+alonso,Bahrain Grand Prix 2006,20.0,134.0
+alonso,Brazilian Grand Prix 2006,28.0,134.0
+alonso,British Grand Prix 2006,38.0,134.0
+alonso,Canadian Grand Prix 2006,48.0,134.0
+alonso,Chinese Grand Prix 2006,56.0,134.0
+alonso,European Grand Prix 2006,64.0,134.0
+alonso,French Grand Prix 2006,72.0,134.0
+alonso,German Grand Prix 2006,76.0,134.0
+alonso,Hungarian Grand Prix 2006,76.0,134.0
+alonso,Italian Grand Prix 2006,76.0,134.0
+alonso,Japanese Grand Prix 2006,86.0,134.0
+alonso,Malaysian Grand Prix 2006,94.0,134.0
+alonso,Monaco Grand Prix 2006,104.0,134.0
+alonso,San Marino Grand Prix 2006,112.0,134.0
+alonso,Spanish Grand Prix 2006,122.0,134.0
+alonso,Turkish Grand Prix 2006,130.0,134.0
+alonso,United States Grand Prix 2006,134.0,134.0
+michael_schumacher,Australian Grand Prix 2006,0.0,121.0
+michael_schumacher,Bahrain Grand Prix 2006,8.0,121.0
+michael_schumacher,Brazilian Grand Prix 2006,13.0,121.0
+michael_schumacher,British Grand Prix 2006,21.0,121.0
+michael_schumacher,Canadian Grand Prix 2006,29.0,121.0
+michael_schumacher,Chinese Grand Prix 2006,39.0,121.0
+michael_schumacher,European Grand Prix 2006,49.0,121.0
+michael_schumacher,French Grand Prix 2006,59.0,121.0
+michael_schumacher,German Grand Prix 2006,69.0,121.0
+michael_schumacher,Hungarian Grand Prix 2006,70.0,121.0
+michael_schumacher,Italian Grand Prix 2006,80.0,121.0
+michael_schumacher,Japanese Grand Prix 2006,80.0,121.0
+michael_schumacher,Malaysian Grand Prix 2006,83.0,121.0
+michael_schumacher,Monaco Grand Prix 2006,87.0,121.0
+michael_schumacher,San Marino Grand Prix 2006,97.0,121.0
+michael_schumacher,Spanish Grand Prix 2006,105.0,121.0
+michael_schumacher,Turkish Grand Prix 2006,111.0,121.0
+michael_schumacher,United States Grand Prix 2006,121.0,121.0
+massa,Australian Grand Prix 2006,0.0,80.0
+massa,Bahrain Grand Prix 2006,0.0,80.0
+massa,Brazilian Grand Prix 2006,10.0,80.0
+massa,British Grand Prix 2006,14.0,80.0
+massa,Canadian Grand Prix 2006,18.0,80.0
+massa,Chinese Grand Prix 2006,18.0,80.0
+massa,European Grand Prix 2006,24.0,80.0
+massa,French Grand Prix 2006,30.0,80.0
+massa,German Grand Prix 2006,38.0,80.0
+massa,Hungarian Grand Prix 2006,40.0,80.0
+massa,Italian Grand Prix 2006,40.0,80.0
+massa,Japanese Grand Prix 2006,48.0,80.0
+massa,Malaysian Grand Prix 2006,52.0,80.0
+massa,Monaco Grand Prix 2006,52.0,80.0
+massa,San Marino Grand Prix 2006,57.0,80.0
+massa,Spanish Grand Prix 2006,62.0,80.0
+massa,Turkish Grand Prix 2006,72.0,80.0
+massa,United States Grand Prix 2006,80.0,80.0
+fisichella,Australian Grand Prix 2006,4.0,72.0
+fisichella,Bahrain Grand Prix 2006,4.0,72.0
+fisichella,Brazilian Grand Prix 2006,7.0,72.0
+fisichella,British Grand Prix 2006,12.0,72.0
+fisichella,Canadian Grand Prix 2006,17.0,72.0
+fisichella,Chinese Grand Prix 2006,23.0,72.0
+fisichella,European Grand Prix 2006,26.0,72.0
+fisichella,French Grand Prix 2006,29.0,72.0
+fisichella,German Grand Prix 2006,32.0,72.0
+fisichella,Hungarian Grand Prix 2006,32.0,72.0
+fisichella,Italian Grand Prix 2006,37.0,72.0
+fisichella,Japanese Grand Prix 2006,43.0,72.0
+fisichella,Malaysian Grand Prix 2006,53.0,72.0
+fisichella,Monaco Grand Prix 2006,56.0,72.0
+fisichella,San Marino Grand Prix 2006,57.0,72.0
+fisichella,Spanish Grand Prix 2006,63.0,72.0
+fisichella,Turkish Grand Prix 2006,66.0,72.0
+fisichella,United States Grand Prix 2006,72.0,72.0
+raikkonen,Australian Grand Prix 2006,8.0,65.0
+raikkonen,Bahrain Grand Prix 2006,14.0,65.0
+raikkonen,Brazilian Grand Prix 2006,18.0,65.0
+raikkonen,British Grand Prix 2006,24.0,65.0
+raikkonen,Canadian Grand Prix 2006,30.0,65.0
+raikkonen,Chinese Grand Prix 2006,30.0,65.0
+raikkonen,European Grand Prix 2006,35.0,65.0
+raikkonen,French Grand Prix 2006,39.0,65.0
+raikkonen,German Grand Prix 2006,45.0,65.0
+raikkonen,Hungarian Grand Prix 2006,45.0,65.0
+raikkonen,Italian Grand Prix 2006,53.0,65.0
+raikkonen,Japanese Grand Prix 2006,57.0,65.0
+raikkonen,Malaysian Grand Prix 2006,57.0,65.0
+raikkonen,Monaco Grand Prix 2006,57.0,65.0
+raikkonen,San Marino Grand Prix 2006,61.0,65.0
+raikkonen,Spanish Grand Prix 2006,65.0,65.0
+raikkonen,Turkish Grand Prix 2006,65.0,65.0
+raikkonen,United States Grand Prix 2006,65.0,65.0
+button,Australian Grand Prix 2006,0.0,56.0
+button,Bahrain Grand Prix 2006,5.0,56.0
+button,Brazilian Grand Prix 2006,11.0,56.0
+button,British Grand Prix 2006,11.0,56.0
+button,Canadian Grand Prix 2006,11.0,56.0
+button,Chinese Grand Prix 2006,16.0,56.0
+button,European Grand Prix 2006,16.0,56.0
+button,French Grand Prix 2006,16.0,56.0
+button,German Grand Prix 2006,21.0,56.0
+button,Hungarian Grand Prix 2006,31.0,56.0
+button,Italian Grand Prix 2006,35.0,56.0
+button,Japanese Grand Prix 2006,40.0,56.0
+button,Malaysian Grand Prix 2006,46.0,56.0
+button,Monaco Grand Prix 2006,46.0,56.0
+button,San Marino Grand Prix 2006,48.0,56.0
+button,Spanish Grand Prix 2006,51.0,56.0
+button,Turkish Grand Prix 2006,56.0,56.0
+button,United States Grand Prix 2006,56.0,56.0
+barrichello,Australian Grand Prix 2006,2.0,30.0
+barrichello,Bahrain Grand Prix 2006,2.0,30.0
+barrichello,Brazilian Grand Prix 2006,4.0,30.0
+barrichello,British Grand Prix 2006,4.0,30.0
+barrichello,Canadian Grand Prix 2006,4.0,30.0
+barrichello,Chinese Grand Prix 2006,7.0,30.0
+barrichello,European Grand Prix 2006,11.0,30.0
+barrichello,French Grand Prix 2006,11.0,30.0
+barrichello,German Grand Prix 2006,11.0,30.0
+barrichello,Hungarian Grand Prix 2006,16.0,30.0
+barrichello,Italian Grand Prix 2006,19.0,30.0
+barrichello,Japanese Grand Prix 2006,19.0,30.0
+barrichello,Malaysian Grand Prix 2006,19.0,30.0
+barrichello,Monaco Grand Prix 2006,24.0,30.0
+barrichello,San Marino Grand Prix 2006,24.0,30.0
+barrichello,Spanish Grand Prix 2006,26.0,30.0
+barrichello,Turkish Grand Prix 2006,27.0,30.0
+barrichello,United States Grand Prix 2006,30.0,30.0
+montoya,Australian Grand Prix 2006,0.0,26.0
+montoya,Bahrain Grand Prix 2006,4.0,26.0
+montoya,British Grand Prix 2006,7.0,26.0
+montoya,Canadian Grand Prix 2006,7.0,26.0
+montoya,European Grand Prix 2006,7.0,26.0
+montoya,Malaysian Grand Prix 2006,12.0,26.0
+montoya,Monaco Grand Prix 2006,20.0,26.0
+montoya,San Marino Grand Prix 2006,26.0,26.0
+montoya,Spanish Grand Prix 2006,26.0,26.0
+montoya,United States Grand Prix 2006,26.0,26.0
+heidfeld,Australian Grand Prix 2006,5.0,23.0
+heidfeld,Bahrain Grand Prix 2006,5.0,23.0
+heidfeld,Brazilian Grand Prix 2006,5.0,23.0
+heidfeld,British Grand Prix 2006,7.0,23.0
+heidfeld,Canadian Grand Prix 2006,9.0,23.0
+heidfeld,Chinese Grand Prix 2006,11.0,23.0
+heidfeld,European Grand Prix 2006,11.0,23.0
+heidfeld,French Grand Prix 2006,12.0,23.0
+heidfeld,German Grand Prix 2006,12.0,23.0
+heidfeld,Hungarian Grand Prix 2006,18.0,23.0
+heidfeld,Italian Grand Prix 2006,19.0,23.0
+heidfeld,Japanese Grand Prix 2006,20.0,23.0
+heidfeld,Malaysian Grand Prix 2006,20.0,23.0
+heidfeld,Monaco Grand Prix 2006,22.0,23.0
+heidfeld,San Marino Grand Prix 2006,22.0,23.0
+heidfeld,Spanish Grand Prix 2006,23.0,23.0
+heidfeld,Turkish Grand Prix 2006,23.0,23.0
+heidfeld,United States Grand Prix 2006,23.0,23.0
+ralf_schumacher,Australian Grand Prix 2006,6.0,20.0
+ralf_schumacher,Bahrain Grand Prix 2006,6.0,20.0
+ralf_schumacher,Brazilian Grand Prix 2006,6.0,20.0
+ralf_schumacher,British Grand Prix 2006,6.0,20.0
+ralf_schumacher,Canadian Grand Prix 2006,6.0,20.0
+ralf_schumacher,Chinese Grand Prix 2006,6.0,20.0
+ralf_schumacher,European Grand Prix 2006,6.0,20.0
+ralf_schumacher,French Grand Prix 2006,11.0,20.0
+ralf_schumacher,German Grand Prix 2006,11.0,20.0
+ralf_schumacher,Hungarian Grand Prix 2006,14.0,20.0
+ralf_schumacher,Italian Grand Prix 2006,14.0,20.0
+ralf_schumacher,Japanese Grand Prix 2006,16.0,20.0
+ralf_schumacher,Malaysian Grand Prix 2006,17.0,20.0
+ralf_schumacher,Monaco Grand Prix 2006,18.0,20.0
+ralf_schumacher,San Marino Grand Prix 2006,18.0,20.0
+ralf_schumacher,Spanish Grand Prix 2006,18.0,20.0
+ralf_schumacher,Turkish Grand Prix 2006,20.0,20.0
+ralf_schumacher,United States Grand Prix 2006,20.0,20.0
+rosa,Brazilian Grand Prix 2006,1.0,19.0
+rosa,Chinese Grand Prix 2006,5.0,19.0
+rosa,French Grand Prix 2006,7.0,19.0
+rosa,German Grand Prix 2006,7.0,19.0
+rosa,Hungarian Grand Prix 2006,15.0,19.0
+rosa,Italian Grand Prix 2006,15.0,19.0
+rosa,Japanese Grand Prix 2006,15.0,19.0
+rosa,Turkish Grand Prix 2006,19.0,19.0
+trulli,Australian Grand Prix 2006,0.0,15.0
+trulli,Bahrain Grand Prix 2006,0.0,15.0
+trulli,Brazilian Grand Prix 2006,0.0,15.0
+trulli,British Grand Prix 2006,0.0,15.0
+trulli,Canadian Grand Prix 2006,3.0,15.0
+trulli,Chinese Grand Prix 2006,3.0,15.0
+trulli,European Grand Prix 2006,3.0,15.0
+trulli,French Grand Prix 2006,3.0,15.0
+trulli,German Grand Prix 2006,5.0,15.0
+trulli,Hungarian Grand Prix 2006,5.0,15.0
+trulli,Italian Grand Prix 2006,7.0,15.0
+trulli,Japanese Grand Prix 2006,10.0,15.0
+trulli,Malaysian Grand Prix 2006,10.0,15.0
+trulli,Monaco Grand Prix 2006,10.0,15.0
+trulli,San Marino Grand Prix 2006,10.0,15.0
+trulli,Spanish Grand Prix 2006,10.0,15.0
+trulli,Turkish Grand Prix 2006,10.0,15.0
+trulli,United States Grand Prix 2006,15.0,15.0
+coulthard,Australian Grand Prix 2006,1.0,14.0
+coulthard,Bahrain Grand Prix 2006,1.0,14.0
+coulthard,Brazilian Grand Prix 2006,1.0,14.0
+coulthard,British Grand Prix 2006,1.0,14.0
+coulthard,Canadian Grand Prix 2006,2.0,14.0
+coulthard,Chinese Grand Prix 2006,2.0,14.0
+coulthard,European Grand Prix 2006,2.0,14.0
+coulthard,French Grand Prix 2006,2.0,14.0
+coulthard,German Grand Prix 2006,2.0,14.0
+coulthard,Hungarian Grand Prix 2006,6.0,14.0
+coulthard,Italian Grand Prix 2006,6.0,14.0
+coulthard,Japanese Grand Prix 2006,6.0,14.0
+coulthard,Malaysian Grand Prix 2006,6.0,14.0
+coulthard,Monaco Grand Prix 2006,12.0,14.0
+coulthard,San Marino Grand Prix 2006,12.0,14.0
+coulthard,Spanish Grand Prix 2006,12.0,14.0
+coulthard,Turkish Grand Prix 2006,12.0,14.0
+coulthard,United States Grand Prix 2006,14.0,14.0
+villeneuve,Australian Grand Prix 2006,3.0,7.0
+webber,Australian Grand Prix 2006,0.0,7.0
+webber,Bahrain Grand Prix 2006,3.0,7.0
+villeneuve,Bahrain Grand Prix 2006,3.0,7.0
+webber,Brazilian Grand Prix 2006,3.0,7.0
+webber,British Grand Prix 2006,3.0,7.0
+villeneuve,British Grand Prix 2006,4.0,7.0
+villeneuve,Canadian Grand Prix 2006,4.0,7.0
+webber,Canadian Grand Prix 2006,3.0,7.0
+webber,Chinese Grand Prix 2006,4.0,7.0
+villeneuve,European Grand Prix 2006,5.0,7.0
+webber,European Grand Prix 2006,4.0,7.0
+webber,French Grand Prix 2006,4.0,7.0
+villeneuve,French Grand Prix 2006,5.0,7.0
+villeneuve,German Grand Prix 2006,5.0,7.0
+webber,German Grand Prix 2006,4.0,7.0
+webber,Hungarian Grand Prix 2006,4.0,7.0
+webber,Italian Grand Prix 2006,4.0,7.0
+webber,Japanese Grand Prix 2006,4.0,7.0
+villeneuve,Malaysian Grand Prix 2006,7.0,7.0
+webber,Malaysian Grand Prix 2006,4.0,7.0
+webber,Monaco Grand Prix 2006,4.0,7.0
+villeneuve,Monaco Grand Prix 2006,7.0,7.0
+villeneuve,San Marino Grand Prix 2006,7.0,7.0
+webber,San Marino Grand Prix 2006,7.0,7.0
+webber,Spanish Grand Prix 2006,7.0,7.0
+villeneuve,Spanish Grand Prix 2006,7.0,7.0
+webber,Turkish Grand Prix 2006,7.0,7.0
+webber,United States Grand Prix 2006,7.0,7.0
+villeneuve,United States Grand Prix 2006,7.0,7.0
+kubica,Brazilian Grand Prix 2006,0.0,6.0
+kubica,Chinese Grand Prix 2006,0.0,6.0
+kubica,Hungarian Grand Prix 2006,0.0,6.0
+kubica,Italian Grand Prix 2006,6.0,6.0
+kubica,Japanese Grand Prix 2006,6.0,6.0
+kubica,Turkish Grand Prix 2006,6.0,6.0
+rosberg,Australian Grand Prix 2006,0.0,4.0
+rosberg,Bahrain Grand Prix 2006,2.0,4.0
+rosberg,Brazilian Grand Prix 2006,2.0,4.0
+rosberg,British Grand Prix 2006,2.0,4.0
+rosberg,Canadian Grand Prix 2006,2.0,4.0
+rosberg,Chinese Grand Prix 2006,2.0,4.0
+rosberg,European Grand Prix 2006,4.0,4.0
+rosberg,French Grand Prix 2006,4.0,4.0
+rosberg,German Grand Prix 2006,4.0,4.0
+rosberg,Hungarian Grand Prix 2006,4.0,4.0
+rosberg,Italian Grand Prix 2006,4.0,4.0
+rosberg,Japanese Grand Prix 2006,4.0,4.0
+rosberg,Malaysian Grand Prix 2006,4.0,4.0
+rosberg,Monaco Grand Prix 2006,4.0,4.0
+rosberg,San Marino Grand Prix 2006,4.0,4.0
+rosberg,Spanish Grand Prix 2006,4.0,4.0
+rosberg,Turkish Grand Prix 2006,4.0,4.0
+rosberg,United States Grand Prix 2006,4.0,4.0
+klien,Australian Grand Prix 2006,0.0,2.0
+klien,Bahrain Grand Prix 2006,1.0,2.0
+klien,British Grand Prix 2006,1.0,2.0
+klien,Canadian Grand Prix 2006,1.0,2.0
+klien,European Grand Prix 2006,1.0,2.0
+klien,French Grand Prix 2006,1.0,2.0
+klien,German Grand Prix 2006,2.0,2.0
+klien,Hungarian Grand Prix 2006,2.0,2.0
+klien,Italian Grand Prix 2006,2.0,2.0
+klien,Malaysian Grand Prix 2006,2.0,2.0
+klien,Monaco Grand Prix 2006,2.0,2.0
+klien,San Marino Grand Prix 2006,2.0,2.0
+klien,Spanish Grand Prix 2006,2.0,2.0
+klien,Turkish Grand Prix 2006,2.0,2.0
+klien,United States Grand Prix 2006,2.0,2.0
+liuzzi,Australian Grand Prix 2006,0.0,1.0
+liuzzi,Bahrain Grand Prix 2006,0.0,1.0
+liuzzi,Brazilian Grand Prix 2006,0.0,1.0
+liuzzi,British Grand Prix 2006,0.0,1.0
+liuzzi,Canadian Grand Prix 2006,0.0,1.0
+liuzzi,Chinese Grand Prix 2006,0.0,1.0
+liuzzi,European Grand Prix 2006,0.0,1.0
+liuzzi,French Grand Prix 2006,0.0,1.0
+liuzzi,German Grand Prix 2006,0.0,1.0
+liuzzi,Hungarian Grand Prix 2006,0.0,1.0
+liuzzi,Italian Grand Prix 2006,0.0,1.0
+liuzzi,Japanese Grand Prix 2006,0.0,1.0
+liuzzi,Malaysian Grand Prix 2006,0.0,1.0
+liuzzi,Monaco Grand Prix 2006,0.0,1.0
+liuzzi,San Marino Grand Prix 2006,0.0,1.0
+liuzzi,Spanish Grand Prix 2006,0.0,1.0
+liuzzi,Turkish Grand Prix 2006,0.0,1.0
+liuzzi,United States Grand Prix 2006,1.0,1.0
+speed,Australian Grand Prix 2006,0.0,0.0
+albers,Australian Grand Prix 2006,0.0,0.0
+sato,Australian Grand Prix 2006,0.0,0.0
+ide,Australian Grand Prix 2006,0.0,0.0
+monteiro,Australian Grand Prix 2006,0.0,0.0
+sato,Bahrain Grand Prix 2006,0.0,0.0
+monteiro,Bahrain Grand Prix 2006,0.0,0.0
+speed,Bahrain Grand Prix 2006,0.0,0.0
+ide,Bahrain Grand Prix 2006,0.0,0.0
+albers,Bahrain Grand Prix 2006,0.0,0.0
+yamamoto,Brazilian Grand Prix 2006,0.0,0.0
+monteiro,Brazilian Grand Prix 2006,0.0,0.0
+albers,Brazilian Grand Prix 2006,0.0,0.0
+doornbos,Brazilian Grand Prix 2006,0.0,0.0
+speed,Brazilian Grand Prix 2006,0.0,0.0
+sato,Brazilian Grand Prix 2006,0.0,0.0
+speed,British Grand Prix 2006,0.0,0.0
+albers,British Grand Prix 2006,0.0,0.0
+monteiro,British Grand Prix 2006,0.0,0.0
+sato,British Grand Prix 2006,0.0,0.0
+montagny,British Grand Prix 2006,0.0,0.0
+monteiro,Canadian Grand Prix 2006,0.0,0.0
+sato,Canadian Grand Prix 2006,0.0,0.0
+montagny,Canadian Grand Prix 2006,0.0,0.0
+speed,Canadian Grand Prix 2006,0.0,0.0
+albers,Canadian Grand Prix 2006,0.0,0.0
+doornbos,Chinese Grand Prix 2006,0.0,0.0
+speed,Chinese Grand Prix 2006,0.0,0.0
+monteiro,Chinese Grand Prix 2006,0.0,0.0
+sato,Chinese Grand Prix 2006,0.0,0.0
+yamamoto,Chinese Grand Prix 2006,0.0,0.0
+albers,Chinese Grand Prix 2006,0.0,0.0
+monteiro,European Grand Prix 2006,0.0,0.0
+speed,European Grand Prix 2006,0.0,0.0
+sato,European Grand Prix 2006,0.0,0.0
+albers,European Grand Prix 2006,0.0,0.0
+montagny,European Grand Prix 2006,0.0,0.0
+monteiro,French Grand Prix 2006,0.0,0.0
+montagny,French Grand Prix 2006,0.0,0.0
+albers,French Grand Prix 2006,0.0,0.0
+sato,French Grand Prix 2006,0.0,0.0
+speed,French Grand Prix 2006,0.0,0.0
+yamamoto,German Grand Prix 2006,0.0,0.0
+sato,German Grand Prix 2006,0.0,0.0
+speed,German Grand Prix 2006,0.0,0.0
+albers,German Grand Prix 2006,0.0,0.0
+monteiro,German Grand Prix 2006,0.0,0.0
+sato,Hungarian Grand Prix 2006,0.0,0.0
+albers,Hungarian Grand Prix 2006,0.0,0.0
+speed,Hungarian Grand Prix 2006,0.0,0.0
+yamamoto,Hungarian Grand Prix 2006,0.0,0.0
+monteiro,Hungarian Grand Prix 2006,0.0,0.0
+sato,Italian Grand Prix 2006,0.0,0.0
+albers,Italian Grand Prix 2006,0.0,0.0
+monteiro,Italian Grand Prix 2006,0.0,0.0
+yamamoto,Italian Grand Prix 2006,0.0,0.0
+speed,Italian Grand Prix 2006,0.0,0.0
+sato,Japanese Grand Prix 2006,0.0,0.0
+monteiro,Japanese Grand Prix 2006,0.0,0.0
+yamamoto,Japanese Grand Prix 2006,0.0,0.0
+albers,Japanese Grand Prix 2006,0.0,0.0
+doornbos,Japanese Grand Prix 2006,0.0,0.0
+speed,Japanese Grand Prix 2006,0.0,0.0
+albers,Malaysian Grand Prix 2006,0.0,0.0
+monteiro,Malaysian Grand Prix 2006,0.0,0.0
+sato,Malaysian Grand Prix 2006,0.0,0.0
+speed,Malaysian Grand Prix 2006,0.0,0.0
+ide,Malaysian Grand Prix 2006,0.0,0.0
+sato,Monaco Grand Prix 2006,0.0,0.0
+albers,Monaco Grand Prix 2006,0.0,0.0
+speed,Monaco Grand Prix 2006,0.0,0.0
+monteiro,Monaco Grand Prix 2006,0.0,0.0
+montagny,Monaco Grand Prix 2006,0.0,0.0
+speed,San Marino Grand Prix 2006,0.0,0.0
+monteiro,San Marino Grand Prix 2006,0.0,0.0
+ide,San Marino Grand Prix 2006,0.0,0.0
+sato,San Marino Grand Prix 2006,0.0,0.0
+albers,San Marino Grand Prix 2006,0.0,0.0
+montagny,Spanish Grand Prix 2006,0.0,0.0
+monteiro,Spanish Grand Prix 2006,0.0,0.0
+sato,Spanish Grand Prix 2006,0.0,0.0
+albers,Spanish Grand Prix 2006,0.0,0.0
+speed,Spanish Grand Prix 2006,0.0,0.0
+albers,Turkish Grand Prix 2006,0.0,0.0
+yamamoto,Turkish Grand Prix 2006,0.0,0.0
+sato,Turkish Grand Prix 2006,0.0,0.0
+speed,Turkish Grand Prix 2006,0.0,0.0
+monteiro,Turkish Grand Prix 2006,0.0,0.0
+montagny,United States Grand Prix 2006,0.0,0.0
+speed,United States Grand Prix 2006,0.0,0.0
+sato,United States Grand Prix 2006,0.0,0.0
+albers,United States Grand Prix 2006,0.0,0.0
+monteiro,United States Grand Prix 2006,0.0,0.0
