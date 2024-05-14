@@ -22,6 +22,8 @@ def total_km_per_team():
     
     # Calculate distance for each race
     merged_data['race_distance'] = merged_data['laps'] * merged_data['course_length_km']
+    # Distance is in meters, convert to kilometers
+    merged_data['race_distance'] = merged_data['race_distance'] / 1000
     
     # Group by constructorId and sum the distances
     km_per_team = merged_data.groupby('constructorId')['race_distance'].sum().reset_index()
