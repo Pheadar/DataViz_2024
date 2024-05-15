@@ -48,24 +48,39 @@
         .visualization.active {
             display: block;
         }
-        .toggle-button {
+        .toggle-button-container {
             display: flex;
             justify-content: center;
-            margin: 20px auto 25px; /* Center the button, add margin on top and bottom */
-            padding: 8px 16px; /* Smaller padding for a smaller button */
+            align-items: center;
+            margin: 20px auto 25px;
+        }
+        .year {
+            font-size: 14px;
+            margin: 0 10px;
+            cursor: pointer;
+        }
+        .year.active {
+            color: black;
+            font-weight: bold;
+        }
+        .year.inactive {
+            color: lightgray;
+        }
+        .toggle-button {
+            padding: 8px 16px;
             background-color: #333333;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            font-size: 14px; /* Smaller font size */
+            font-size: 14px;
             text-align: center;
             text-decoration: none;
-            font-family: 'Coda', sans-serif; /* Apply the custom font */
-            transition: background-color 0.3s ease; /* Smooth transition for background color */
+            font-family: 'Coda', sans-serif;
+            transition: background-color 0.3s ease;
         }
         .toggle-button:hover {
-            background-color: #555555; /* Lighter background color on hover */
+            background-color: #555555;
         }
         #signature {
             text-align: center;
@@ -84,7 +99,11 @@
     <div class="flourish-embed flourish-gantt" data-src="visualisation/17980472">
         <script src="https://public.flourish.studio/resources/embed.js"></script>
     </div>
-    <button class="toggle-button" onclick="toggleVisualizations()">Switch Season</button>
+    <div class="toggle-button-container">
+        <div id="year2005" class="year active" onclick="selectYear(2005)">2005</div>
+        <button class="toggle-button" onclick="toggleVisualizations()">Switch Season</button>
+        <div id="year2006" class="year inactive" onclick="selectYear(2006)">2006</div>
+    </div>
     <div id="visualizations">
         <div id="visualization1" class="visualization active">
             <!-- Line 2005 -->
@@ -127,17 +146,56 @@
             const viz2 = document.getElementById('visualization2');
             const viz3 = document.getElementById('visualization3');
             const viz4 = document.getElementById('visualization4');
+            const year2005 = document.getElementById('year2005');
+            const year2006 = document.getElementById('year2006');
 
             if (viz1.classList.contains('active')) {
                 viz1.classList.remove('active');
                 viz2.classList.remove('active');
                 viz3.classList.add('active');
                 viz4.classList.add('active');
+                year2005.classList.remove('active');
+                year2005.classList.add('inactive');
+                year2006.classList.remove('inactive');
+                year2006.classList.add('active');
             } else {
                 viz3.classList.remove('active');
                 viz4.classList.remove('active');
                 viz1.classList.add('active');
                 viz2.classList.add('active');
+                year2006.classList.remove('active');
+                year2006.classList.add('inactive');
+                year2005.classList.remove('inactive');
+                year2005.classList.add('active');
+            }
+        }
+
+        function selectYear(year) {
+            const viz1 = document.getElementById('visualization1');
+            const viz2 = document.getElementById('visualization2');
+            const viz3 = document.getElementById('visualization3');
+            const viz4 = document.getElementById('visualization4');
+            const year2005 = document.getElementById('year2005');
+            const year2006 = document.getElementById('year2006');
+
+            if (year === 2005) {
+                viz3.classList.remove('active');
+                viz4.classList.remove('active');
+                viz1.classList.add('active');
+                viz2.classList.add('active');
+                year2006.classList.remove('active');
+                year2006.classList.add('inactive');
+                year2005.classList.remove('inactive');
+                year2005.classList.add('active');
+            } else if (year === 2006) {
+                viz1.classList.remove('active');
+                viz2.classList.remove('active');
+                viz3.classList.add('active');
+                viz4.classList.add('active');
+                year2005.classList.remove('active');
+                year2005.classList.add('inactive');
+                year2006.classList.remove('inactive');
+                year2006.classList.add('active');
             }
         }
     </script>
