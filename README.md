@@ -1,25 +1,32 @@
 # Data Visualisation and Data-driven Decision Making 2024
-# Final Project: Fernando Alonso's Formula 1 Career in Data
+# Final Project: The Visual Story of Fernando Alonso's Formula 1 Career
 
 ## Table of Contents
 
+- [Webpage](#webpage)
 - [Group Members](#group-members)
 - [Project Description](#project-description)
-- [Data](#data)
+- [Data Source](#data-source)
 - [Implementation](#implementation)
 - [Folder Structure](#folder-structure)
+
+---
+
+## Webpage
+
+The final interactive dashboard and visualizations can be accessed here: [**The Visual Story of Alonso's Career**](https://pheadar.github.io/DataViz_2024/)
 
 ---
 
 ## Group Members
 
 **Bogdan Mihaila**  
-|> *email*: bomi@itu.dk  
-|> *github*: https://github.com/m3bogdan
+| *email*: bomi@itu.dk  
+| *github*: https://github.com/m3bogdan
 
 **Pedro Prazeres**  
-|> *email*: peca@itu.dk  
-|> *github*: https://github.com/Pheadar
+| *email*: peca@itu.dk  
+| *github*: https://github.com/Pheadar
 
 >[Back to top](#table-of-contents)
 
@@ -35,7 +42,7 @@ This is a group project, where we explore Fernando Alonso's Formula 1 career in 
 
 ---
 
-## Data
+## Data Source
 
 The data used in this project is sourced from the [Ergast Developer API](http://ergast.com/mrd/). The API provides historical Formula 1 data, including information on drivers, teams, circuits, race results, and more. The data was scraped from the API as json files and then treated and transformed into pandas dataframes for analysis.
 
@@ -45,9 +52,7 @@ The data used in this project is sourced from the [Ergast Developer API](http://
 
 ## Implementation
 
-The project is implemented in Python 3.11 and uses Jupyter Notebooks. The following libraries are used:
-- [plotly](https://plotly.com/python/)
-- [dash](https://dash.plotly.com/)
+The project uses Python 3.11 with the following libraries:
 - [pandas](https://pandas.pydata.org/)
 - [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
@@ -68,31 +73,33 @@ pip install -r requirements.txt
 │       └── {round number}-{GP name}
 |           ├── race_results.json
 │           └── quali_results.json (where available)
-├── treated_data
-|   ├── csv
-│       ├── circuit_info.csv
-│       ├── driver_info.csv
-│       ├── race_info.csv
-│       ├── results.csv
-│       └── team_info.csv
-|   ├── pickles
-│       ├── circuit_info.pkl
-│       ├── driver_info.pkl
-│       ├── race_info.pkl
-│       ├── results.pkl
-│       └── team_info.pkl
-|   ├── all_quali_results.json
-|   ├── all_race_results.json
-│   └── alo_season_summary.csv
 ├── scripts
 │   ├── 01-data_scrape.py
 │   ├── 02_data_merge.py
 │   ├── 03_dataframes.py
 │   ├── 04_driver_career.py
-├── notebooks
-│   ├── 
+│   ├── 05_distance_per_team.py
+│   └── 06_timeline.py
+├── treated_data
+|   ├── csv
+│       ├── {season}_sorted_drivers.csv
+│       ├── {season}_timeline_short.csv
+│       ├── {season}_timeline.csv
+│       ├── circuit_info.csv
+│       ├── distance_per_team.csv
+│       ├── driver_info.csv
+│       ├── driver_photos.csv
+│       ├── race_info.csv
+│       ├── results.csv
+│       └── team_info.csv
+|   ├── pickles
+│       └── (same as csv)
+|   ├── all_quali_results.json
+|   ├── all_race_results.json
+│   └── alonso_career_summary.csv
 ├── report
 │   └── Final_Report.pdf
+├── index.html
 ├── requirements.txt
 └── README.md
 ```
