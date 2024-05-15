@@ -9,26 +9,34 @@
             font-family: 'Coda', sans-serif;
             font-size: 14px;
             margin: 0;
-            padding: 0;
+            padding: 20px; /* Add padding to create space around the content */
+            background-color: #f9f9f9; /* Light background color for better contrast */
         }
         #timeline {
             height: 100px;
             text-align: center;
             padding: 20px;
+            margin-bottom: 20px; /* Add margin to create space between sections */
             background-color: #f0f0f0;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
         }
         #visualizations {
             display: flex;
             justify-content: space-around;
             align-items: center;
             padding: 20px;
+            margin-bottom: 20px; /* Add margin to create space between sections */
             position: relative;
+            background-color: #ffffff;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
         }
         #cards {
             height: 100px;
             text-align: center;
             padding: 20px;
             background-color: #f0f0f0;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
         }
         .visualization {
             width: 45%;
@@ -48,29 +56,44 @@
             top: 50%;
             transform: translate(-50%, -50%);
         }
+        #signature {
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px; /* Add margin to create space from the previous section */
+            background-color: #ffffff;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+        }
+        #signature p {
+            margin: 5px 0;
+        }
     </style>
 </head>
 <body>
+    <!-- Timeline -->
     <div class="flourish-embed flourish-gantt" data-src="visualisation/17964114">
         <script src="https://public.flourish.studio/resources/embed.js"></script>
     </div>
     <div id="visualizations">
         <div id="visualization1" class="visualization active">
+            <!-- Line 2005 -->
             <div class="flourish-embed flourish-chart" data-src="visualisation/17964974" style="font-family: 'Coda', sans-serif; font-size: 14px">
                 <script src="https://public.flourish.studio/resources/embed.js"></script>
             </div>
         </div>
         <div id="visualization2" class="visualization active">
+            <!-- Globe 2005 -->
             <div class="flourish-embed" data-src="story/2381979" style="font-family: 'Coda', sans-serif; font-size: 14px">
                 <script src="https://public.flourish.studio/resources/embed.js"></script>
             </div>
         </div>
         <div id="visualization3" class="visualization">
-            <div class="flourish-embed flourish-chart" data-src="visualisation/17964976" style="font-family: 'Coda', sans-serif; font-size: 14px">
+            <!-- Line 2006 -->
+            <div class="flourish-embed flourish-chart" data-src="visualisation/17965669">
                 <script src="https://public.flourish.studio/resources/embed.js"></script>
             </div>
         </div>
         <div id="visualization4" class="visualization">
+            <!-- Globe 2006 -->
             <div class="flourish-embed" data-src="story/2381980" style="font-family: 'Coda', sans-serif; font-size: 14px">
                 <script src="https://public.flourish.studio/resources/embed.js"></script>
             </div>
@@ -79,6 +102,12 @@
     </div>
     <div class="flourish-embed flourish-cards" data-src="visualisation/17979713">
         <script src="https://public.flourish.studio/resources/embed.js"></script>
+    </div>
+    <div id="signature">
+        <p><strong>Bogdan Mihaila</strong></p>
+        <p>Email: <a href="mailto:bomi@itu.dk">bomi@itu.dk</a></p>
+        <p><strong>Pedro Prazeres</strong></p>
+        <p>Email: <a href="mailto:peca@itu.dk">peca@itu.dk</a></p>
     </div>
 
     <script>
