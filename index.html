@@ -4,26 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Visual Story of Alonso's Career</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Racing Sans One', sans-serif;
         }
         .visualization {
             margin: 20px 0;
         }
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .container .flourish-embed {
+            flex: 1;
+            margin: 10px;
+        }
     </style>
 </head>
 <body>
-    <h1></h1>
+    <h1>A Visual Story of Alonso's Career</h1>
 
     <div class="flourish-embed flourish-cards" data-src="visualisation/17964113">
-        <h2>Alonso's Teams</h2>
+        <h2>Teams</h2>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
     </div>
 
-    <div class="flourish-embed" data-src="story/2381979">
-        <h2>A Worldwide Event</h2>
-        <script src="https://public.flourish.studio/resources/embed.js"></script>
+    <div class="container">
+        <div class="flourish-embed" data-src="story/2381979">
+            <h2>Worldwide</h2>
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+        </div>
+
+        <div class="flourish-embed flourish-chart" data-src="visualisation/17964974">
+            <h2>Competition</h2>
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+        </div>
     </div>
 
 </body>
