@@ -1,4 +1,2 @@
-plotly
-dash
 pandas
 beautifulsoup4
