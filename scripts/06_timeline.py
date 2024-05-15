@@ -68,10 +68,15 @@ def pivot_cumulative_points(df, races):
     df_pivot = df_pivot[final_columns]
     return df_pivot
 
-def add_driver_images(df):
-    df = df.merge(driver_images, left_on='driverId', right_on='driverId', how='left')
+def add_driver_images_and_names(df):
+    df = df.merge(driver_images, on='driverId', how='left')
     df['image'] = df['link']
     df.drop(columns=['link'], inplace=True)
+    cols = df.columns.tolist()
+    # Ensure driverName is next to driverId and image is after driverName
+    cols.insert(cols.index('driverId') + 1, cols.pop(cols.index('driverName')))
+    cols.insert(cols.index('driverName') + 1, cols.pop(cols.index('image')))
+    df = df[cols]
     return df
 
 def sort_by_final_position(df, cumulative_points):
@@ -88,6 +93,7 @@ def create_sorted_drivers_df(results, races):
     results_sorted = results.merge(races[['raceId', 'raceName', 'date', 'latitude', 'longitude']], on='raceId', how='left')
     results_sorted = results_sorted[['driverId', 'raceName', 'racePoints', 'cumulativePoints', 'date', 'latitude', 'longitude']]
     results_sorted.rename(columns={'date': 'raceDate', 'latitude': 'raceLatitude', 'longitude': 'raceLongitude'}, inplace=True)
+    results_sorted = results_sorted.merge(driver_info[['driverId', 'driverName']], on='driverId')
     return results_sorted
 
 for season in seasons:
@@ -96,7 +102,7 @@ for season in seasons:
     
     # Timeline dataframe
     pivot_df = pivot_cumulative_points(cumulative_points, season_race_info)
-    pivot_df = add_driver_images(pivot_df)
+    pivot_df = add_driver_images_and_names(pivot_df)
     pivot_df = sort_by_final_position(pivot_df, cumulative_points)
     pivot_df.to_pickle(os.path.join(base_path, 'pickles', f'{season}_timeline.pkl'))
     pivot_df.to_csv(os.path.join(base_path, 'csv', f'{season}_timeline.csv'), index=False)
@@ -110,7 +116,7 @@ for season in seasons:
     sorted_drivers_df = create_sorted_drivers_df(cumulative_points, season_race_info)
     sorted_drivers_df = sorted_drivers_df.sort_values(by='raceDate')
     sorted_drivers_df = sort_by_final_position(sorted_drivers_df, cumulative_points)
-    sorted_drivers_df = add_driver_images(sorted_drivers_df)
+    sorted_drivers_df = add_driver_images_and_names(sorted_drivers_df)
     sorted_drivers_df.to_pickle(os.path.join(base_path, 'pickles', f'{season}_sorted_drivers.pkl'))
     sorted_drivers_df.to_csv(os.path.join(base_path, 'csv', f'{season}_sorted_drivers.csv'), index=False)
 
