@@ -1,28 +1,28 @@
-driverId,driverName,image,constructorId,Australian GP,Malaysian GP,Bahrain GP,San Marino GP,Spanish GP,Monaco GP,European GP,Canadian GP,United States GP,French GP,British GP,German GP,Hungarian GP,Turkish GP,Italian GP,Belgian GP,Brazilian GP,Japanese GP,Chinese GP
-alonso,Fernando Alonso,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75,renault,6.0,16.0,26.0,36.0,44.0,49.0,59.0,59.0,59.0,69.0,77.0,87.0,87.0,95.0,103.0,111.0,117.0,123.0,133.0
-raikkonen,Kimi Räikkönen,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75,mclaren,1.0,1.0,7.0,7.0,17.0,27.0,27.0,37.0,37.0,45.0,51.0,51.0,61.0,71.0,76.0,86.0,94.0,104.0,112.0
-michael_schumacher,Michael Schumacher,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F1_144fcc31aaf89e9b4396.jpg&w=256&q=75,ferrari,0.0,2.0,2.0,10.0,10.0,12.0,16.0,24.0,34.0,40.0,43.0,47.0,55.0,55.0,55.0,55.0,60.0,62.0,62.0
-montoya,Juan Pablo Montoya,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75,mclaren,3.0,8.0,,,10.0,14.0,16.0,16.0,16.0,16.0,26.0,34.0,34.0,40.0,50.0,50.0,60.0,60.0,60.0
-fisichella,Giancarlo Fisichella,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75,renault,10.0,10.0,10.0,10.0,14.0,14.0,17.0,17.0,17.0,20.0,25.0,30.0,30.0,35.0,41.0,41.0,45.0,53.0,58.0
-ralf_schumacher,Ralf Schumacher,,toyota,0.0,4.0,9.0,9.0,14.0,17.0,17.0,20.0,,22.0,23.0,26.0,32.0,32.0,35.0,37.0,38.0,39.0,45.0
-trulli,Jarno Trulli,,toyota,0.0,8.0,16.0,20.0,26.0,26.0,27.0,27.0,27.0,31.0,31.0,31.0,36.0,39.0,43.0,43.0,43.0,43.0,43.0
-barrichello,Rubens Barrichello,,ferrari,8.0,8.0,8.0,8.0,8.0,9.0,15.0,21.0,29.0,29.0,31.0,31.0,31.0,31.0,31.0,35.0,38.0,38.0,38.0
-button,Jenson Button,,bar,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,5.0,9.0,15.0,19.0,23.0,24.0,30.0,32.0,36.0,37.0
-webber,Mark Webber,,williams,4.0,4.0,7.0,9.0,12.0,18.0,18.0,22.0,22.0,22.0,22.0,22.0,24.0,24.0,24.0,29.0,29.0,34.0,36.0
-heidfeld,Nick Heidfeld,,williams,0.0,6.0,6.0,9.0,9.0,17.0,25.0,25.0,25.0,25.0,25.0,25.0,28.0,28.0,,,,,
-coulthard,David Coulthard,,red_bull,5.0,8.0,9.0,9.0,10.0,10.0,15.0,17.0,17.0,17.0,17.0,19.0,19.0,21.0,21.0,21.0,21.0,24.0,24.0
-massa,Felipe Massa,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75,sauber,0.0,0.0,2.0,2.0,2.0,2.0,2.0,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,11.0
-klien,Christian Klien,,red_bull,2.0,3.0,3.0,,,,,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,9.0
-villeneuve,Jacques Villeneuve,,sauber,0.0,0.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,9.0,9.0,9.0,9.0
-monteiro,Tiago Monteiro,,jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,7.0
-wurz,Alexander Wurz,,mclaren,,,,6.0,,,,,,,,,,,,,,,
-karthikeyan,Narain Karthikeyan,,jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-rosa,Pedro de la Rosa,,mclaren,,,4.0,,,,,,,,,,,,,,,,
-albers,Christijan Albers,,minardi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0
-friesacher,Patrick Friesacher,,minardi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,,,,,,,,
-pizzonia,Antônio Pizzonia,,williams,,,,,,,,,,,,,,,2.0,2.0,2.0,2.0,2.0
-sato,Takuma Sato,,bar,0.0,,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-liuzzi,Vitantonio Liuzzi,,red_bull,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,
-doornbos,Robert Doornbos,,minardi,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-davidson,Anthony Davidson,,bar,,0.0,,,,,,,,,,,,,,,,,
-zonta,Ricardo Zonta,,toyota,,,,,,,,,0.0,,,,,,,,,,
+driverId,driverName,constructorId,01 Australian GP,02 Malaysian GP,03 Bahrain GP,04 San Marino GP,05 Spanish GP,06 Monaco GP,07 European GP,08 Canadian GP,09 United States GP,10 French GP,11 British GP,12 German GP,13 Hungarian GP,14 Turkish GP,15 Italian GP,16 Belgian GP,17 Brazilian GP,18 Japanese GP,19 Chinese GP,image
+alonso,Fernando Alonso,renault,6.0,16.0,26.0,36.0,44.0,49.0,59.0,59.0,59.0,69.0,77.0,87.0,87.0,95.0,103.0,111.0,117.0,123.0,133.0,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+raikkonen,Kimi Räikkönen,mclaren,1.0,1.0,7.0,7.0,17.0,27.0,27.0,37.0,37.0,45.0,51.0,51.0,61.0,71.0,76.0,86.0,94.0,104.0,112.0,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+michael_schumacher,Michael Schumacher,ferrari,0.0,2.0,2.0,10.0,10.0,12.0,16.0,24.0,34.0,40.0,43.0,47.0,55.0,55.0,55.0,55.0,60.0,62.0,62.0,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+montoya,Juan Pablo Montoya,mclaren,3.0,8.0,,,10.0,14.0,16.0,16.0,16.0,16.0,26.0,34.0,34.0,40.0,50.0,50.0,60.0,60.0,60.0,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+fisichella,Giancarlo Fisichella,renault,10.0,10.0,10.0,10.0,14.0,14.0,17.0,17.0,17.0,20.0,25.0,30.0,30.0,35.0,41.0,41.0,45.0,53.0,58.0,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+ralf_schumacher,Ralf Schumacher,toyota,0.0,4.0,9.0,9.0,14.0,17.0,17.0,20.0,,22.0,23.0,26.0,32.0,32.0,35.0,37.0,38.0,39.0,45.0,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+trulli,Jarno Trulli,toyota,0.0,8.0,16.0,20.0,26.0,26.0,27.0,27.0,27.0,31.0,31.0,31.0,36.0,39.0,43.0,43.0,43.0,43.0,43.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+barrichello,Rubens Barrichello,ferrari,8.0,8.0,8.0,8.0,8.0,9.0,15.0,21.0,29.0,29.0,31.0,31.0,31.0,31.0,31.0,35.0,38.0,38.0,38.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+button,Jenson Button,bar,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,5.0,9.0,15.0,19.0,23.0,24.0,30.0,32.0,36.0,37.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+webber,Mark Webber,williams,4.0,4.0,7.0,9.0,12.0,18.0,18.0,22.0,22.0,22.0,22.0,22.0,24.0,24.0,24.0,29.0,29.0,34.0,36.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+heidfeld,Nick Heidfeld,williams,0.0,6.0,6.0,9.0,9.0,17.0,25.0,25.0,25.0,25.0,25.0,25.0,28.0,28.0,,,,,,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+coulthard,David Coulthard,red_bull,5.0,8.0,9.0,9.0,10.0,10.0,15.0,17.0,17.0,17.0,17.0,19.0,19.0,21.0,21.0,21.0,21.0,24.0,24.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+massa,Felipe Massa,sauber,0.0,0.0,2.0,2.0,2.0,2.0,2.0,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,11.0,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+klien,Christian Klien,red_bull,2.0,3.0,3.0,,,,,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,9.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+villeneuve,Jacques Villeneuve,sauber,0.0,0.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,9.0,9.0,9.0,9.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+monteiro,Tiago Monteiro,jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,7.0,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+wurz,Alexander Wurz,mclaren,,,,6.0,,,,,,,,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-d1184785-8da1-4f1c-9285-b933005e275d.jpg
+karthikeyan,Narain Karthikeyan,jordan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-7301addf-eec7-4df9-bf33-78eedbd73472.jpg
+rosa,Pedro de la Rosa,mclaren,,,4.0,,,,,,,,,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+albers,Christijan Albers,minardi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+friesacher,Patrick Friesacher,minardi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-fcc1d047-2d79-419f-9e09-d4f10ed01036.jpg
+pizzonia,Antônio Pizzonia,williams,,,,,,,,,,,,,,,2.0,2.0,2.0,2.0,2.0,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-b194ab21-8e36-4b39-b218-50798014a659.jpg
+sato,Takuma Sato,bar,0.0,,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+liuzzi,Vitantonio Liuzzi,red_bull,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+doornbos,Robert Doornbos,minardi,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-d8d5ffdc-e03a-4cfb-94db-80a88d94a07f.jpg
+davidson,Anthony Davidson,bar,,0.0,,,,,,,,,,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-876d1934-11db-421d-be1a-39696eb5b8e6.jpg
+zonta,Ricardo Zonta,toyota,,,,,,,,,0.0,,,,,,,,,,,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-92840fae-c893-433a-8b35-a06d59863c6d.jpg

@@ -9,6 +9,9 @@ race_info = pd.read_pickle(os.path.join(base_path, 'pickles', 'race_info.pkl'))
 results = pd.read_pickle(os.path.join(base_path, 'pickles', 'results.pkl'))
 team_info = pd.read_pickle(os.path.join(base_path, 'pickles', 'team_info.pkl'))
 
+# Load driver images
+driver_images = pd.read_csv(os.path.join(base_path, 'csv', 'driver_photos.csv'))
+
 # Convert 'season' and 'round' columns to integer
 race_info['season'] = race_info['season'].astype(int)
 race_info['round'] = race_info['round'].astype(int)
@@ -16,122 +19,107 @@ results['season'] = results['season'].astype(int)
 results['round'] = results['round'].astype(int)
 
 # Filter the race_info and results for the 2005 and 2006 seasons
-races_2005 = race_info[race_info['season'] == 2005]
-races_2006 = race_info[race_info['season'] == 2006]
-results_2005 = results[results['season'] == 2005]
-results_2006 = results[results['season'] == 2006]
+seasons = [2005, 2006]
 
-# Merge results with team_info to get the constructorId
-results_2005 = results_2005.merge(team_info[['teamId']], left_on='constructorId', right_on='teamId', how='left')
-results_2006 = results_2006.merge(team_info[['teamId']], left_on='constructorId', right_on='teamId', how='left')
+def load_season_data(season):
+    season_race_info = race_info[race_info['season'] == season].copy()
+    season_results = results[results['season'] == season].copy()
+    
+    # Merge results with team_info to get the constructorId
+    season_results = season_results.merge(team_info[['teamId']], left_on='constructorId', right_on='teamId', how='left')
+    
+    # Merge the race information with circuit information
+    season_race_info = season_race_info.merge(circuit_info, on='circuitId', how='left')
+    
+    # Select the required columns for the final race dataframes
+    season_race_info = season_race_info[['round', 'raceId', 'date', 'latitude', 'longitude', 'raceName']].copy()
+    
+    # Replace 'Grand Prix' with 'GP' in race names
+    season_race_info['raceName'] = season_race_info['raceName'].str.replace('Grand Prix', 'GP')
+    
+    # Merge results with race_info to get the date column
+    season_results = season_results.merge(season_race_info[['raceId', 'date']], on='raceId', how='left')
+    
+    return season_race_info, season_results
 
-# Merge the race information with circuit information
-def merge_race_circuit_info(races):
-    return races.merge(circuit_info, on='circuitId', how='left')
-
-races_2005_merged = merge_race_circuit_info(races_2005)
-races_2006_merged = merge_race_circuit_info(races_2006)
-
-# Select the required columns for the final race dataframes
-columns_needed = ['round', 'raceId', 'date', 'latitude', 'longitude', 'raceName']
-
-races_2005_final = races_2005_merged[columns_needed]
-races_2006_final = races_2006_merged[columns_needed]
-
-# Replace 'Grand Prix' with 'GP' in race names
-races_2005_final['raceName'] = races_2005_final['raceName'].str.replace('Grand Prix', 'GP')
-races_2006_final['raceName'] = races_2006_final['raceName'].str.replace('Grand Prix', 'GP')
-
-# Merge results with race_info to get the date column
-results_2005 = results_2005.merge(race_info[['raceId', 'date']], on='raceId', how='left')
-results_2006 = results_2006.merge(race_info[['raceId', 'date']], on='raceId', how='left')
-
-# Function to calculate cumulative points for a season
-def calculate_cumulative_points(results, season):
+def calculate_cumulative_points(results):
     results_sorted = results.sort_values(by=['date', 'round'])
-    results_sorted['cumulativePoints'] = results_sorted.groupby('driverId')['points'].cumsum()
+    results_sorted.rename(columns={'points': 'racePoints'}, inplace=True)
+    results_sorted['cumulativePoints'] = results_sorted.groupby('driverId')['racePoints'].cumsum()
     results_sorted = results_sorted.merge(driver_info[['driverId', 'driverName']], on='driverId')
-    results_sorted.rename(columns={'position': 'raceFinalPosition', 'points': 'racePoints'}, inplace=True)
-    results_sorted = results_sorted[['round', 'raceId', 'driverId', 'driverName', 'constructorId', 'raceFinalPosition', 'racePoints', 'cumulativePoints']]
+    results_sorted = results_sorted[['round', 'raceId', 'driverId', 'driverName', 'constructorId', 'racePoints', 'cumulativePoints']]
     return results_sorted
 
-# Calculate cumulative points for 2005 and 2006
-cumulative_points_2005 = calculate_cumulative_points(results_2005, 2005)
-cumulative_points_2006 = calculate_cumulative_points(results_2006, 2006)
-
-# Pivot the dataframes to get the desired format
 def pivot_cumulative_points(df, races):
+    race_names = races[['raceId', 'raceName', 'round']].drop_duplicates()
+    race_names['raceLabel'] = race_names.apply(lambda x: f"{int(x['round']):02d} {x['raceName']}", axis=1)
+    race_names_dict = race_names.set_index('raceId')['raceLabel'].to_dict()
+    
     df_pivot = df.pivot_table(index=['driverId', 'driverName', 'constructorId'], columns='raceId', values='cumulativePoints', aggfunc='max').reset_index()
-    race_names = races[['raceId', 'raceName']].drop_duplicates().set_index('raceId').to_dict()['raceName']
-    df_pivot.rename(columns=race_names, inplace=True)
-    race_order = races.sort_values(by='date')['raceName'].unique()
-    df_pivot = df_pivot[['driverId', 'driverName', 'constructorId'] + list(race_order)]
+    df_pivot.rename(columns=race_names_dict, inplace=True)
+    
+    race_order = race_names.sort_values(by='round')['raceLabel'].unique()
+    final_columns = ['driverId', 'driverName', 'constructorId'] + list(race_order)
+    
+    missing_columns = set(final_columns) - set(df_pivot.columns)
+    for col in missing_columns:
+        df_pivot[col] = None
+    
+    df_pivot = df_pivot[final_columns]
     return df_pivot
 
-# Add image URLs to specific drivers
-def add_image_urls(df):
-    image_urls = {
-        'alonso': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75',
-        'michael_schumacher': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F1_144fcc31aaf89e9b4396.jpg&w=256&q=75',
-        'massa': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75',
-        'fisichella': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75',
-        'raikkonen': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75',
-        'montoya': 'https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75'
-    }
-    df['image'] = df['driverId'].map(image_urls).fillna('')
+def add_driver_images(df):
+    df = df.merge(driver_images, left_on='driverId', right_on='driverId', how='left')
+    df['image'] = df['link']
+    df.drop(columns=['link'], inplace=True)
     return df
 
-# Pivot the cumulative points dataframes
-pivot_2005 = pivot_cumulative_points(cumulative_points_2005, races_2005_final)
-pivot_2006 = pivot_cumulative_points(cumulative_points_2006, races_2006_final)
-
-# Sort the pivot dataframes by final championship position
 def sort_by_final_position(df, cumulative_points):
     final_positions = cumulative_points.groupby('driverId')['cumulativePoints'].max().reset_index().sort_values(by='cumulativePoints', ascending=False)
     df_sorted = df.set_index('driverId').loc[final_positions['driverId']].reset_index()
     return df_sorted
 
-pivot_2005 = sort_by_final_position(pivot_2005, cumulative_points_2005)
-pivot_2006 = sort_by_final_position(pivot_2006, cumulative_points_2006)
-
-# Add image URLs to the pivoted dataframes
-pivot_2005 = add_image_urls(pivot_2005)
-pivot_2006 = add_image_urls(pivot_2006)
-
-# Reorder columns to place 'image' between 'driverName' and 'constructorId'
-def reorder_columns(df):
-    columns = df.columns.tolist()
-    columns.insert(columns.index('constructorId'), columns.pop(columns.index('image')))
-    return df[columns]
-
-pivot_2005 = reorder_columns(pivot_2005)
-pivot_2006 = reorder_columns(pivot_2006)
-
-# Save the pivoted dataframes
-pivot_2005.to_pickle(os.path.join(base_path, 'pickles', '2005_timeline.pkl'))
-pivot_2006.to_pickle(os.path.join(base_path, 'pickles', '2006_timeline.pkl'))
-pivot_2005.to_csv(os.path.join(base_path, 'csv', '2005_timeline.csv'), index=False)
-pivot_2006.to_csv(os.path.join(base_path, 'csv', '2006_timeline.csv'), index=False)
-
-# Function to create the shortened dataframes
 def create_shortened_df(df, cumulative_points):
     top_5_drivers = cumulative_points.groupby('driverId')['cumulativePoints'].max().nlargest(5).index
     shortened_df = df[df['driverId'].isin(top_5_drivers)]
     return shortened_df
 
-# Create the shortened dataframes for 2005 and 2006
-shortened_2005 = create_shortened_df(pivot_2005, cumulative_points_2005)
-shortened_2006 = create_shortened_df(pivot_2006, cumulative_points_2006)
+def create_sorted_drivers_df(results, races):
+    results_sorted = results.merge(races[['raceId', 'raceName', 'date', 'latitude', 'longitude']], on='raceId', how='left')
+    results_sorted = results_sorted[['driverId', 'raceName', 'racePoints', 'cumulativePoints', 'date', 'latitude', 'longitude']]
+    results_sorted.rename(columns={'date': 'raceDate', 'latitude': 'raceLatitude', 'longitude': 'raceLongitude'}, inplace=True)
+    return results_sorted
 
-# Save the shortened dataframes
-shortened_2005.to_pickle(os.path.join(base_path, 'pickles', '2005_timeline_short.pkl'))
-shortened_2006.to_pickle(os.path.join(base_path, 'pickles', '2006_timeline_short.pkl'))
-shortened_2005.to_csv(os.path.join(base_path, 'csv', '2005_timeline_short.csv'), index=False)
-shortened_2006.to_csv(os.path.join(base_path, 'csv', '2006_timeline_short.csv'), index=False)
+for season in seasons:
+    season_race_info, season_results = load_season_data(season)
+    cumulative_points = calculate_cumulative_points(season_results)
+    
+    # Timeline dataframe
+    pivot_df = pivot_cumulative_points(cumulative_points, season_race_info)
+    pivot_df = add_driver_images(pivot_df)
+    pivot_df = sort_by_final_position(pivot_df, cumulative_points)
+    pivot_df.to_pickle(os.path.join(base_path, 'pickles', f'{season}_timeline.pkl'))
+    pivot_df.to_csv(os.path.join(base_path, 'csv', f'{season}_timeline.csv'), index=False)
+    
+    # Timeline short dataframe
+    shortened_df = create_shortened_df(pivot_df, cumulative_points)
+    shortened_df.to_pickle(os.path.join(base_path, 'pickles', f'{season}_timeline_short.pkl'))
+    shortened_df.to_csv(os.path.join(base_path, 'csv', f'{season}_timeline_short.csv'), index=False)
+    
+    # Sorted drivers dataframe
+    sorted_drivers_df = create_sorted_drivers_df(cumulative_points, season_race_info)
+    sorted_drivers_df = sorted_drivers_df.sort_values(by='raceDate')
+    sorted_drivers_df = sort_by_final_position(sorted_drivers_df, cumulative_points)
+    sorted_drivers_df = add_driver_images(sorted_drivers_df)
+    sorted_drivers_df.to_pickle(os.path.join(base_path, 'pickles', f'{season}_sorted_drivers.pkl'))
+    sorted_drivers_df.to_csv(os.path.join(base_path, 'csv', f'{season}_sorted_drivers.csv'), index=False)
 
-# Print to verify
-print("2005 Shortened Timeline DataFrame:")
-print(shortened_2005.head())
+    # Print to verify
+    print(f"{season} Timeline DataFrame:")
+    print(pivot_df.head())
 
-print("2006 Shortened Timeline DataFrame:")
-print(shortened_2006.head())
+    print(f"{season} Shortened Timeline DataFrame:")
+    print(shortened_df.head())
+
+    print(f"{season} Sorted Drivers DataFrame:")
+    print(sorted_drivers_df.head())

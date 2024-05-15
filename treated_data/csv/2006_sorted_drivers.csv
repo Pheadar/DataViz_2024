@@ -1,397 +1,397 @@
-driverId,raceId,cumulative_points,points_total
-alonso,Australian Grand Prix 2006,10.0,134.0
-alonso,Bahrain Grand Prix 2006,20.0,134.0
-alonso,Brazilian Grand Prix 2006,28.0,134.0
-alonso,British Grand Prix 2006,38.0,134.0
-alonso,Canadian Grand Prix 2006,48.0,134.0
-alonso,Chinese Grand Prix 2006,56.0,134.0
-alonso,European Grand Prix 2006,64.0,134.0
-alonso,French Grand Prix 2006,72.0,134.0
-alonso,German Grand Prix 2006,76.0,134.0
-alonso,Hungarian Grand Prix 2006,76.0,134.0
-alonso,Italian Grand Prix 2006,76.0,134.0
-alonso,Japanese Grand Prix 2006,86.0,134.0
-alonso,Malaysian Grand Prix 2006,94.0,134.0
-alonso,Monaco Grand Prix 2006,104.0,134.0
-alonso,San Marino Grand Prix 2006,112.0,134.0
-alonso,Spanish Grand Prix 2006,122.0,134.0
-alonso,Turkish Grand Prix 2006,130.0,134.0
-alonso,United States Grand Prix 2006,134.0,134.0
-michael_schumacher,Australian Grand Prix 2006,0.0,121.0
-michael_schumacher,Bahrain Grand Prix 2006,8.0,121.0
-michael_schumacher,Brazilian Grand Prix 2006,13.0,121.0
-michael_schumacher,British Grand Prix 2006,21.0,121.0
-michael_schumacher,Canadian Grand Prix 2006,29.0,121.0
-michael_schumacher,Chinese Grand Prix 2006,39.0,121.0
-michael_schumacher,European Grand Prix 2006,49.0,121.0
-michael_schumacher,French Grand Prix 2006,59.0,121.0
-michael_schumacher,German Grand Prix 2006,69.0,121.0
-michael_schumacher,Hungarian Grand Prix 2006,70.0,121.0
-michael_schumacher,Italian Grand Prix 2006,80.0,121.0
-michael_schumacher,Japanese Grand Prix 2006,80.0,121.0
-michael_schumacher,Malaysian Grand Prix 2006,83.0,121.0
-michael_schumacher,Monaco Grand Prix 2006,87.0,121.0
-michael_schumacher,San Marino Grand Prix 2006,97.0,121.0
-michael_schumacher,Spanish Grand Prix 2006,105.0,121.0
-michael_schumacher,Turkish Grand Prix 2006,111.0,121.0
-michael_schumacher,United States Grand Prix 2006,121.0,121.0
-massa,Australian Grand Prix 2006,0.0,80.0
-massa,Bahrain Grand Prix 2006,0.0,80.0
-massa,Brazilian Grand Prix 2006,10.0,80.0
-massa,British Grand Prix 2006,14.0,80.0
-massa,Canadian Grand Prix 2006,18.0,80.0
-massa,Chinese Grand Prix 2006,18.0,80.0
-massa,European Grand Prix 2006,24.0,80.0
-massa,French Grand Prix 2006,30.0,80.0
-massa,German Grand Prix 2006,38.0,80.0
-massa,Hungarian Grand Prix 2006,40.0,80.0
-massa,Italian Grand Prix 2006,40.0,80.0
-massa,Japanese Grand Prix 2006,48.0,80.0
-massa,Malaysian Grand Prix 2006,52.0,80.0
-massa,Monaco Grand Prix 2006,52.0,80.0
-massa,San Marino Grand Prix 2006,57.0,80.0
-massa,Spanish Grand Prix 2006,62.0,80.0
-massa,Turkish Grand Prix 2006,72.0,80.0
-massa,United States Grand Prix 2006,80.0,80.0
-fisichella,Australian Grand Prix 2006,4.0,72.0
-fisichella,Bahrain Grand Prix 2006,4.0,72.0
-fisichella,Brazilian Grand Prix 2006,7.0,72.0
-fisichella,British Grand Prix 2006,12.0,72.0
-fisichella,Canadian Grand Prix 2006,17.0,72.0
-fisichella,Chinese Grand Prix 2006,23.0,72.0
-fisichella,European Grand Prix 2006,26.0,72.0
-fisichella,French Grand Prix 2006,29.0,72.0
-fisichella,German Grand Prix 2006,32.0,72.0
-fisichella,Hungarian Grand Prix 2006,32.0,72.0
-fisichella,Italian Grand Prix 2006,37.0,72.0
-fisichella,Japanese Grand Prix 2006,43.0,72.0
-fisichella,Malaysian Grand Prix 2006,53.0,72.0
-fisichella,Monaco Grand Prix 2006,56.0,72.0
-fisichella,San Marino Grand Prix 2006,57.0,72.0
-fisichella,Spanish Grand Prix 2006,63.0,72.0
-fisichella,Turkish Grand Prix 2006,66.0,72.0
-fisichella,United States Grand Prix 2006,72.0,72.0
-raikkonen,Australian Grand Prix 2006,8.0,65.0
-raikkonen,Bahrain Grand Prix 2006,14.0,65.0
-raikkonen,Brazilian Grand Prix 2006,18.0,65.0
-raikkonen,British Grand Prix 2006,24.0,65.0
-raikkonen,Canadian Grand Prix 2006,30.0,65.0
-raikkonen,Chinese Grand Prix 2006,30.0,65.0
-raikkonen,European Grand Prix 2006,35.0,65.0
-raikkonen,French Grand Prix 2006,39.0,65.0
-raikkonen,German Grand Prix 2006,45.0,65.0
-raikkonen,Hungarian Grand Prix 2006,45.0,65.0
-raikkonen,Italian Grand Prix 2006,53.0,65.0
-raikkonen,Japanese Grand Prix 2006,57.0,65.0
-raikkonen,Malaysian Grand Prix 2006,57.0,65.0
-raikkonen,Monaco Grand Prix 2006,57.0,65.0
-raikkonen,San Marino Grand Prix 2006,61.0,65.0
-raikkonen,Spanish Grand Prix 2006,65.0,65.0
-raikkonen,Turkish Grand Prix 2006,65.0,65.0
-raikkonen,United States Grand Prix 2006,65.0,65.0
-button,Australian Grand Prix 2006,0.0,56.0
-button,Bahrain Grand Prix 2006,5.0,56.0
-button,Brazilian Grand Prix 2006,11.0,56.0
-button,British Grand Prix 2006,11.0,56.0
-button,Canadian Grand Prix 2006,11.0,56.0
-button,Chinese Grand Prix 2006,16.0,56.0
-button,European Grand Prix 2006,16.0,56.0
-button,French Grand Prix 2006,16.0,56.0
-button,German Grand Prix 2006,21.0,56.0
-button,Hungarian Grand Prix 2006,31.0,56.0
-button,Italian Grand Prix 2006,35.0,56.0
-button,Japanese Grand Prix 2006,40.0,56.0
-button,Malaysian Grand Prix 2006,46.0,56.0
-button,Monaco Grand Prix 2006,46.0,56.0
-button,San Marino Grand Prix 2006,48.0,56.0
-button,Spanish Grand Prix 2006,51.0,56.0
-button,Turkish Grand Prix 2006,56.0,56.0
-button,United States Grand Prix 2006,56.0,56.0
-barrichello,Australian Grand Prix 2006,2.0,30.0
-barrichello,Bahrain Grand Prix 2006,2.0,30.0
-barrichello,Brazilian Grand Prix 2006,4.0,30.0
-barrichello,British Grand Prix 2006,4.0,30.0
-barrichello,Canadian Grand Prix 2006,4.0,30.0
-barrichello,Chinese Grand Prix 2006,7.0,30.0
-barrichello,European Grand Prix 2006,11.0,30.0
-barrichello,French Grand Prix 2006,11.0,30.0
-barrichello,German Grand Prix 2006,11.0,30.0
-barrichello,Hungarian Grand Prix 2006,16.0,30.0
-barrichello,Italian Grand Prix 2006,19.0,30.0
-barrichello,Japanese Grand Prix 2006,19.0,30.0
-barrichello,Malaysian Grand Prix 2006,19.0,30.0
-barrichello,Monaco Grand Prix 2006,24.0,30.0
-barrichello,San Marino Grand Prix 2006,24.0,30.0
-barrichello,Spanish Grand Prix 2006,26.0,30.0
-barrichello,Turkish Grand Prix 2006,27.0,30.0
-barrichello,United States Grand Prix 2006,30.0,30.0
-montoya,Australian Grand Prix 2006,0.0,26.0
-montoya,Bahrain Grand Prix 2006,4.0,26.0
-montoya,British Grand Prix 2006,7.0,26.0
-montoya,Canadian Grand Prix 2006,7.0,26.0
-montoya,European Grand Prix 2006,7.0,26.0
-montoya,Malaysian Grand Prix 2006,12.0,26.0
-montoya,Monaco Grand Prix 2006,20.0,26.0
-montoya,San Marino Grand Prix 2006,26.0,26.0
-montoya,Spanish Grand Prix 2006,26.0,26.0
-montoya,United States Grand Prix 2006,26.0,26.0
-heidfeld,Australian Grand Prix 2006,5.0,23.0
-heidfeld,Bahrain Grand Prix 2006,5.0,23.0
-heidfeld,Brazilian Grand Prix 2006,5.0,23.0
-heidfeld,British Grand Prix 2006,7.0,23.0
-heidfeld,Canadian Grand Prix 2006,9.0,23.0
-heidfeld,Chinese Grand Prix 2006,11.0,23.0
-heidfeld,European Grand Prix 2006,11.0,23.0
-heidfeld,French Grand Prix 2006,12.0,23.0
-heidfeld,German Grand Prix 2006,12.0,23.0
-heidfeld,Hungarian Grand Prix 2006,18.0,23.0
-heidfeld,Italian Grand Prix 2006,19.0,23.0
-heidfeld,Japanese Grand Prix 2006,20.0,23.0
-heidfeld,Malaysian Grand Prix 2006,20.0,23.0
-heidfeld,Monaco Grand Prix 2006,22.0,23.0
-heidfeld,San Marino Grand Prix 2006,22.0,23.0
-heidfeld,Spanish Grand Prix 2006,23.0,23.0
-heidfeld,Turkish Grand Prix 2006,23.0,23.0
-heidfeld,United States Grand Prix 2006,23.0,23.0
-ralf_schumacher,Australian Grand Prix 2006,6.0,20.0
-ralf_schumacher,Bahrain Grand Prix 2006,6.0,20.0
-ralf_schumacher,Brazilian Grand Prix 2006,6.0,20.0
-ralf_schumacher,British Grand Prix 2006,6.0,20.0
-ralf_schumacher,Canadian Grand Prix 2006,6.0,20.0
-ralf_schumacher,Chinese Grand Prix 2006,6.0,20.0
-ralf_schumacher,European Grand Prix 2006,6.0,20.0
-ralf_schumacher,French Grand Prix 2006,11.0,20.0
-ralf_schumacher,German Grand Prix 2006,11.0,20.0
-ralf_schumacher,Hungarian Grand Prix 2006,14.0,20.0
-ralf_schumacher,Italian Grand Prix 2006,14.0,20.0
-ralf_schumacher,Japanese Grand Prix 2006,16.0,20.0
-ralf_schumacher,Malaysian Grand Prix 2006,17.0,20.0
-ralf_schumacher,Monaco Grand Prix 2006,18.0,20.0
-ralf_schumacher,San Marino Grand Prix 2006,18.0,20.0
-ralf_schumacher,Spanish Grand Prix 2006,18.0,20.0
-ralf_schumacher,Turkish Grand Prix 2006,20.0,20.0
-ralf_schumacher,United States Grand Prix 2006,20.0,20.0
-rosa,Brazilian Grand Prix 2006,1.0,19.0
-rosa,Chinese Grand Prix 2006,5.0,19.0
-rosa,French Grand Prix 2006,7.0,19.0
-rosa,German Grand Prix 2006,7.0,19.0
-rosa,Hungarian Grand Prix 2006,15.0,19.0
-rosa,Italian Grand Prix 2006,15.0,19.0
-rosa,Japanese Grand Prix 2006,15.0,19.0
-rosa,Turkish Grand Prix 2006,19.0,19.0
-trulli,Australian Grand Prix 2006,0.0,15.0
-trulli,Bahrain Grand Prix 2006,0.0,15.0
-trulli,Brazilian Grand Prix 2006,0.0,15.0
-trulli,British Grand Prix 2006,0.0,15.0
-trulli,Canadian Grand Prix 2006,3.0,15.0
-trulli,Chinese Grand Prix 2006,3.0,15.0
-trulli,European Grand Prix 2006,3.0,15.0
-trulli,French Grand Prix 2006,3.0,15.0
-trulli,German Grand Prix 2006,5.0,15.0
-trulli,Hungarian Grand Prix 2006,5.0,15.0
-trulli,Italian Grand Prix 2006,7.0,15.0
-trulli,Japanese Grand Prix 2006,10.0,15.0
-trulli,Malaysian Grand Prix 2006,10.0,15.0
-trulli,Monaco Grand Prix 2006,10.0,15.0
-trulli,San Marino Grand Prix 2006,10.0,15.0
-trulli,Spanish Grand Prix 2006,10.0,15.0
-trulli,Turkish Grand Prix 2006,10.0,15.0
-trulli,United States Grand Prix 2006,15.0,15.0
-coulthard,Australian Grand Prix 2006,1.0,14.0
-coulthard,Bahrain Grand Prix 2006,1.0,14.0
-coulthard,Brazilian Grand Prix 2006,1.0,14.0
-coulthard,British Grand Prix 2006,1.0,14.0
-coulthard,Canadian Grand Prix 2006,2.0,14.0
-coulthard,Chinese Grand Prix 2006,2.0,14.0
-coulthard,European Grand Prix 2006,2.0,14.0
-coulthard,French Grand Prix 2006,2.0,14.0
-coulthard,German Grand Prix 2006,2.0,14.0
-coulthard,Hungarian Grand Prix 2006,6.0,14.0
-coulthard,Italian Grand Prix 2006,6.0,14.0
-coulthard,Japanese Grand Prix 2006,6.0,14.0
-coulthard,Malaysian Grand Prix 2006,6.0,14.0
-coulthard,Monaco Grand Prix 2006,12.0,14.0
-coulthard,San Marino Grand Prix 2006,12.0,14.0
-coulthard,Spanish Grand Prix 2006,12.0,14.0
-coulthard,Turkish Grand Prix 2006,12.0,14.0
-coulthard,United States Grand Prix 2006,14.0,14.0
-villeneuve,Australian Grand Prix 2006,3.0,7.0
-webber,Australian Grand Prix 2006,0.0,7.0
-webber,Bahrain Grand Prix 2006,3.0,7.0
-villeneuve,Bahrain Grand Prix 2006,3.0,7.0
-webber,Brazilian Grand Prix 2006,3.0,7.0
-webber,British Grand Prix 2006,3.0,7.0
-villeneuve,British Grand Prix 2006,4.0,7.0
-villeneuve,Canadian Grand Prix 2006,4.0,7.0
-webber,Canadian Grand Prix 2006,3.0,7.0
-webber,Chinese Grand Prix 2006,4.0,7.0
-villeneuve,European Grand Prix 2006,5.0,7.0
-webber,European Grand Prix 2006,4.0,7.0
-webber,French Grand Prix 2006,4.0,7.0
-villeneuve,French Grand Prix 2006,5.0,7.0
-villeneuve,German Grand Prix 2006,5.0,7.0
-webber,German Grand Prix 2006,4.0,7.0
-webber,Hungarian Grand Prix 2006,4.0,7.0
-webber,Italian Grand Prix 2006,4.0,7.0
-webber,Japanese Grand Prix 2006,4.0,7.0
-villeneuve,Malaysian Grand Prix 2006,7.0,7.0
-webber,Malaysian Grand Prix 2006,4.0,7.0
-webber,Monaco Grand Prix 2006,4.0,7.0
-villeneuve,Monaco Grand Prix 2006,7.0,7.0
-villeneuve,San Marino Grand Prix 2006,7.0,7.0
-webber,San Marino Grand Prix 2006,7.0,7.0
-webber,Spanish Grand Prix 2006,7.0,7.0
-villeneuve,Spanish Grand Prix 2006,7.0,7.0
-webber,Turkish Grand Prix 2006,7.0,7.0
-webber,United States Grand Prix 2006,7.0,7.0
-villeneuve,United States Grand Prix 2006,7.0,7.0
-kubica,Brazilian Grand Prix 2006,0.0,6.0
-kubica,Chinese Grand Prix 2006,0.0,6.0
-kubica,Hungarian Grand Prix 2006,0.0,6.0
-kubica,Italian Grand Prix 2006,6.0,6.0
-kubica,Japanese Grand Prix 2006,6.0,6.0
-kubica,Turkish Grand Prix 2006,6.0,6.0
-rosberg,Australian Grand Prix 2006,0.0,4.0
-rosberg,Bahrain Grand Prix 2006,2.0,4.0
-rosberg,Brazilian Grand Prix 2006,2.0,4.0
-rosberg,British Grand Prix 2006,2.0,4.0
-rosberg,Canadian Grand Prix 2006,2.0,4.0
-rosberg,Chinese Grand Prix 2006,2.0,4.0
-rosberg,European Grand Prix 2006,4.0,4.0
-rosberg,French Grand Prix 2006,4.0,4.0
-rosberg,German Grand Prix 2006,4.0,4.0
-rosberg,Hungarian Grand Prix 2006,4.0,4.0
-rosberg,Italian Grand Prix 2006,4.0,4.0
-rosberg,Japanese Grand Prix 2006,4.0,4.0
-rosberg,Malaysian Grand Prix 2006,4.0,4.0
-rosberg,Monaco Grand Prix 2006,4.0,4.0
-rosberg,San Marino Grand Prix 2006,4.0,4.0
-rosberg,Spanish Grand Prix 2006,4.0,4.0
-rosberg,Turkish Grand Prix 2006,4.0,4.0
-rosberg,United States Grand Prix 2006,4.0,4.0
-klien,Australian Grand Prix 2006,0.0,2.0
-klien,Bahrain Grand Prix 2006,1.0,2.0
-klien,British Grand Prix 2006,1.0,2.0
-klien,Canadian Grand Prix 2006,1.0,2.0
-klien,European Grand Prix 2006,1.0,2.0
-klien,French Grand Prix 2006,1.0,2.0
-klien,German Grand Prix 2006,2.0,2.0
-klien,Hungarian Grand Prix 2006,2.0,2.0
-klien,Italian Grand Prix 2006,2.0,2.0
-klien,Malaysian Grand Prix 2006,2.0,2.0
-klien,Monaco Grand Prix 2006,2.0,2.0
-klien,San Marino Grand Prix 2006,2.0,2.0
-klien,Spanish Grand Prix 2006,2.0,2.0
-klien,Turkish Grand Prix 2006,2.0,2.0
-klien,United States Grand Prix 2006,2.0,2.0
-liuzzi,Australian Grand Prix 2006,0.0,1.0
-liuzzi,Bahrain Grand Prix 2006,0.0,1.0
-liuzzi,Brazilian Grand Prix 2006,0.0,1.0
-liuzzi,British Grand Prix 2006,0.0,1.0
-liuzzi,Canadian Grand Prix 2006,0.0,1.0
-liuzzi,Chinese Grand Prix 2006,0.0,1.0
-liuzzi,European Grand Prix 2006,0.0,1.0
-liuzzi,French Grand Prix 2006,0.0,1.0
-liuzzi,German Grand Prix 2006,0.0,1.0
-liuzzi,Hungarian Grand Prix 2006,0.0,1.0
-liuzzi,Italian Grand Prix 2006,0.0,1.0
-liuzzi,Japanese Grand Prix 2006,0.0,1.0
-liuzzi,Malaysian Grand Prix 2006,0.0,1.0
-liuzzi,Monaco Grand Prix 2006,0.0,1.0
-liuzzi,San Marino Grand Prix 2006,0.0,1.0
-liuzzi,Spanish Grand Prix 2006,0.0,1.0
-liuzzi,Turkish Grand Prix 2006,0.0,1.0
-liuzzi,United States Grand Prix 2006,1.0,1.0
-speed,Australian Grand Prix 2006,0.0,0.0
-albers,Australian Grand Prix 2006,0.0,0.0
-sato,Australian Grand Prix 2006,0.0,0.0
-ide,Australian Grand Prix 2006,0.0,0.0
-monteiro,Australian Grand Prix 2006,0.0,0.0
-sato,Bahrain Grand Prix 2006,0.0,0.0
-monteiro,Bahrain Grand Prix 2006,0.0,0.0
-speed,Bahrain Grand Prix 2006,0.0,0.0
-ide,Bahrain Grand Prix 2006,0.0,0.0
-albers,Bahrain Grand Prix 2006,0.0,0.0
-yamamoto,Brazilian Grand Prix 2006,0.0,0.0
-monteiro,Brazilian Grand Prix 2006,0.0,0.0
-albers,Brazilian Grand Prix 2006,0.0,0.0
-doornbos,Brazilian Grand Prix 2006,0.0,0.0
-speed,Brazilian Grand Prix 2006,0.0,0.0
-sato,Brazilian Grand Prix 2006,0.0,0.0
-speed,British Grand Prix 2006,0.0,0.0
-albers,British Grand Prix 2006,0.0,0.0
-monteiro,British Grand Prix 2006,0.0,0.0
-sato,British Grand Prix 2006,0.0,0.0
-montagny,British Grand Prix 2006,0.0,0.0
-monteiro,Canadian Grand Prix 2006,0.0,0.0
-sato,Canadian Grand Prix 2006,0.0,0.0
-montagny,Canadian Grand Prix 2006,0.0,0.0
-speed,Canadian Grand Prix 2006,0.0,0.0
-albers,Canadian Grand Prix 2006,0.0,0.0
-doornbos,Chinese Grand Prix 2006,0.0,0.0
-speed,Chinese Grand Prix 2006,0.0,0.0
-monteiro,Chinese Grand Prix 2006,0.0,0.0
-sato,Chinese Grand Prix 2006,0.0,0.0
-yamamoto,Chinese Grand Prix 2006,0.0,0.0
-albers,Chinese Grand Prix 2006,0.0,0.0
-monteiro,European Grand Prix 2006,0.0,0.0
-speed,European Grand Prix 2006,0.0,0.0
-sato,European Grand Prix 2006,0.0,0.0
-albers,European Grand Prix 2006,0.0,0.0
-montagny,European Grand Prix 2006,0.0,0.0
-monteiro,French Grand Prix 2006,0.0,0.0
-montagny,French Grand Prix 2006,0.0,0.0
-albers,French Grand Prix 2006,0.0,0.0
-sato,French Grand Prix 2006,0.0,0.0
-speed,French Grand Prix 2006,0.0,0.0
-yamamoto,German Grand Prix 2006,0.0,0.0
-sato,German Grand Prix 2006,0.0,0.0
-speed,German Grand Prix 2006,0.0,0.0
-albers,German Grand Prix 2006,0.0,0.0
-monteiro,German Grand Prix 2006,0.0,0.0
-sato,Hungarian Grand Prix 2006,0.0,0.0
-albers,Hungarian Grand Prix 2006,0.0,0.0
-speed,Hungarian Grand Prix 2006,0.0,0.0
-yamamoto,Hungarian Grand Prix 2006,0.0,0.0
-monteiro,Hungarian Grand Prix 2006,0.0,0.0
-sato,Italian Grand Prix 2006,0.0,0.0
-albers,Italian Grand Prix 2006,0.0,0.0
-monteiro,Italian Grand Prix 2006,0.0,0.0
-yamamoto,Italian Grand Prix 2006,0.0,0.0
-speed,Italian Grand Prix 2006,0.0,0.0
-sato,Japanese Grand Prix 2006,0.0,0.0
-monteiro,Japanese Grand Prix 2006,0.0,0.0
-yamamoto,Japanese Grand Prix 2006,0.0,0.0
-albers,Japanese Grand Prix 2006,0.0,0.0
-doornbos,Japanese Grand Prix 2006,0.0,0.0
-speed,Japanese Grand Prix 2006,0.0,0.0
-albers,Malaysian Grand Prix 2006,0.0,0.0
-monteiro,Malaysian Grand Prix 2006,0.0,0.0
-sato,Malaysian Grand Prix 2006,0.0,0.0
-speed,Malaysian Grand Prix 2006,0.0,0.0
-ide,Malaysian Grand Prix 2006,0.0,0.0
-sato,Monaco Grand Prix 2006,0.0,0.0
-albers,Monaco Grand Prix 2006,0.0,0.0
-speed,Monaco Grand Prix 2006,0.0,0.0
-monteiro,Monaco Grand Prix 2006,0.0,0.0
-montagny,Monaco Grand Prix 2006,0.0,0.0
-speed,San Marino Grand Prix 2006,0.0,0.0
-monteiro,San Marino Grand Prix 2006,0.0,0.0
-ide,San Marino Grand Prix 2006,0.0,0.0
-sato,San Marino Grand Prix 2006,0.0,0.0
-albers,San Marino Grand Prix 2006,0.0,0.0
-montagny,Spanish Grand Prix 2006,0.0,0.0
-monteiro,Spanish Grand Prix 2006,0.0,0.0
-sato,Spanish Grand Prix 2006,0.0,0.0
-albers,Spanish Grand Prix 2006,0.0,0.0
-speed,Spanish Grand Prix 2006,0.0,0.0
-albers,Turkish Grand Prix 2006,0.0,0.0
-yamamoto,Turkish Grand Prix 2006,0.0,0.0
-sato,Turkish Grand Prix 2006,0.0,0.0
-speed,Turkish Grand Prix 2006,0.0,0.0
-monteiro,Turkish Grand Prix 2006,0.0,0.0
-montagny,United States Grand Prix 2006,0.0,0.0
-speed,United States Grand Prix 2006,0.0,0.0
-sato,United States Grand Prix 2006,0.0,0.0
-albers,United States Grand Prix 2006,0.0,0.0
-monteiro,United States Grand Prix 2006,0.0,0.0
+driverId,raceName,racePoints,cumulativePoints,raceDate,raceLatitude,raceLongitude,image
+alonso,Bahrain GP,10.0,10.0,2006-03-12,26.0325,50.5106,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Malaysian GP,8.0,18.0,2006-03-19,2.76083,101.738,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Australian GP,10.0,28.0,2006-04-02,-37.8497,144.968,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,San Marino GP,8.0,36.0,2006-04-23,44.3439,11.7167,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,European GP,8.0,44.0,2006-05-07,50.3356,6.9475,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Spanish GP,10.0,54.0,2006-05-14,41.57,2.26111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Monaco GP,10.0,64.0,2006-05-28,43.7347,7.42056,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,British GP,10.0,74.0,2006-06-11,52.0786,-1.01694,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Canadian GP,10.0,84.0,2006-06-25,45.5,-73.5228,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,United States GP,4.0,88.0,2006-07-02,39.795,-86.2347,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,French GP,8.0,96.0,2006-07-16,46.8642,3.16361,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,German GP,4.0,100.0,2006-07-30,49.3278,8.56583,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Hungarian GP,0.0,100.0,2006-08-06,47.5789,19.2486,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Turkish GP,8.0,108.0,2006-08-27,40.9517,29.405,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Italian GP,0.0,108.0,2006-09-10,45.6156,9.28111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Chinese GP,8.0,116.0,2006-10-01,31.3389,121.22,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Japanese GP,10.0,126.0,2006-10-08,34.8431,136.541,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+alonso,Brazilian GP,8.0,134.0,2006-10-22,-23.7036,-46.6997,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F10_360d54b27fc33a0b352f.jpg&w=256&q=75
+michael_schumacher,Bahrain GP,8.0,8.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Malaysian GP,3.0,11.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Australian GP,0.0,11.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,San Marino GP,10.0,21.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,European GP,10.0,31.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Spanish GP,8.0,39.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Monaco GP,4.0,43.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,British GP,8.0,51.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Canadian GP,8.0,59.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,United States GP,10.0,69.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,French GP,10.0,79.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,German GP,10.0,89.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Hungarian GP,1.0,90.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Turkish GP,6.0,96.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Italian GP,10.0,106.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Chinese GP,10.0,116.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Japanese GP,0.0,116.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+michael_schumacher,Brazilian GP,5.0,121.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-123454ba-2589-461e-8e95-4998f17c7baf.jpg
+massa,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Malaysian GP,4.0,4.0,2006-03-19,2.76083,101.738,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Australian GP,0.0,4.0,2006-04-02,-37.8497,144.968,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,San Marino GP,5.0,9.0,2006-04-23,44.3439,11.7167,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,European GP,6.0,15.0,2006-05-07,50.3356,6.9475,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Spanish GP,5.0,20.0,2006-05-14,41.57,2.26111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Monaco GP,0.0,20.0,2006-05-28,43.7347,7.42056,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,British GP,4.0,24.0,2006-06-11,52.0786,-1.01694,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Canadian GP,4.0,28.0,2006-06-25,45.5,-73.5228,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,United States GP,8.0,36.0,2006-07-02,39.795,-86.2347,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,French GP,6.0,42.0,2006-07-16,46.8642,3.16361,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,German GP,8.0,50.0,2006-07-30,49.3278,8.56583,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Hungarian GP,2.0,52.0,2006-08-06,47.5789,19.2486,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Turkish GP,10.0,62.0,2006-08-27,40.9517,29.405,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Italian GP,0.0,62.0,2006-09-10,45.6156,9.28111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Chinese GP,0.0,62.0,2006-10-01,31.3389,121.22,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Japanese GP,8.0,70.0,2006-10-08,34.8431,136.541,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+massa,Brazilian GP,10.0,80.0,2006-10-22,-23.7036,-46.6997,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F14_1e9df86fd1fd733f218c.jpg&w=256&q=75
+fisichella,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Malaysian GP,10.0,10.0,2006-03-19,2.76083,101.738,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Australian GP,4.0,14.0,2006-04-02,-37.8497,144.968,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,San Marino GP,1.0,15.0,2006-04-23,44.3439,11.7167,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,European GP,3.0,18.0,2006-05-07,50.3356,6.9475,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Spanish GP,6.0,24.0,2006-05-14,41.57,2.26111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Monaco GP,3.0,27.0,2006-05-28,43.7347,7.42056,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,British GP,5.0,32.0,2006-06-11,52.0786,-1.01694,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Canadian GP,5.0,37.0,2006-06-25,45.5,-73.5228,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,United States GP,6.0,43.0,2006-07-02,39.795,-86.2347,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,French GP,3.0,46.0,2006-07-16,46.8642,3.16361,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,German GP,3.0,49.0,2006-07-30,49.3278,8.56583,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Hungarian GP,0.0,49.0,2006-08-06,47.5789,19.2486,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Turkish GP,3.0,52.0,2006-08-27,40.9517,29.405,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Italian GP,5.0,57.0,2006-09-10,45.6156,9.28111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Chinese GP,6.0,63.0,2006-10-01,31.3389,121.22,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Japanese GP,6.0,69.0,2006-10-08,34.8431,136.541,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+fisichella,Brazilian GP,3.0,72.0,2006-10-22,-23.7036,-46.6997,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F13_fbda8a2efdd0b292f315.jpg&w=256&q=75
+raikkonen,Bahrain GP,6.0,6.0,2006-03-12,26.0325,50.5106,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Malaysian GP,0.0,6.0,2006-03-19,2.76083,101.738,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Australian GP,8.0,14.0,2006-04-02,-37.8497,144.968,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,San Marino GP,4.0,18.0,2006-04-23,44.3439,11.7167,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,European GP,5.0,23.0,2006-05-07,50.3356,6.9475,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Spanish GP,4.0,27.0,2006-05-14,41.57,2.26111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Monaco GP,0.0,27.0,2006-05-28,43.7347,7.42056,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,British GP,6.0,33.0,2006-06-11,52.0786,-1.01694,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Canadian GP,6.0,39.0,2006-06-25,45.5,-73.5228,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,United States GP,0.0,39.0,2006-07-02,39.795,-86.2347,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,French GP,4.0,43.0,2006-07-16,46.8642,3.16361,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,German GP,6.0,49.0,2006-07-30,49.3278,8.56583,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Hungarian GP,0.0,49.0,2006-08-06,47.5789,19.2486,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Turkish GP,0.0,49.0,2006-08-27,40.9517,29.405,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Italian GP,8.0,57.0,2006-09-10,45.6156,9.28111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Chinese GP,0.0,57.0,2006-10-01,31.3389,121.22,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Japanese GP,4.0,61.0,2006-10-08,34.8431,136.541,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+raikkonen,Brazilian GP,4.0,65.0,2006-10-22,-23.7036,-46.6997,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F8_feaf0ac16477c2ba6b54.jpg&w=256&q=75
+button,Bahrain GP,5.0,5.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Malaysian GP,6.0,11.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Australian GP,0.0,11.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,San Marino GP,2.0,13.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,European GP,0.0,13.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Spanish GP,3.0,16.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Monaco GP,0.0,16.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,British GP,0.0,16.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Canadian GP,0.0,16.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,United States GP,0.0,16.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,French GP,0.0,16.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,German GP,5.0,21.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Hungarian GP,10.0,31.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Turkish GP,5.0,36.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Italian GP,4.0,40.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Chinese GP,5.0,45.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Japanese GP,5.0,50.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+button,Brazilian GP,6.0,56.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F11_31267337b6394978bbac.jpg&w=256&q=75
+barrichello,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Australian GP,2.0,2.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,San Marino GP,0.0,2.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,European GP,4.0,6.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Spanish GP,2.0,8.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Monaco GP,5.0,13.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,British GP,0.0,13.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Canadian GP,0.0,13.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,United States GP,3.0,16.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,French GP,0.0,16.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,German GP,0.0,16.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Hungarian GP,5.0,21.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Turkish GP,1.0,22.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Italian GP,3.0,25.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Chinese GP,3.0,28.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Japanese GP,0.0,28.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+barrichello,Brazilian GP,2.0,30.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F2_b31457a1632f5c43b5a5.jpg&w=256&q=75
+montoya,Bahrain GP,4.0,4.0,2006-03-12,26.0325,50.5106,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,Malaysian GP,5.0,9.0,2006-03-19,2.76083,101.738,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,Australian GP,0.0,9.0,2006-04-02,-37.8497,144.968,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,San Marino GP,6.0,15.0,2006-04-23,44.3439,11.7167,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,European GP,0.0,15.0,2006-05-07,50.3356,6.9475,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,Spanish GP,0.0,15.0,2006-05-14,41.57,2.26111,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,Monaco GP,8.0,23.0,2006-05-28,43.7347,7.42056,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,British GP,3.0,26.0,2006-06-11,52.0786,-1.01694,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,Canadian GP,0.0,26.0,2006-06-25,45.5,-73.5228,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+montoya,United States GP,0.0,26.0,2006-07-02,39.795,-86.2347,https://www.driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F3_4920e25c1179e8cb4151.jpg&w=256&q=75
+heidfeld,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Australian GP,5.0,5.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,San Marino GP,0.0,5.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,European GP,0.0,5.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Spanish GP,1.0,6.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Monaco GP,2.0,8.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,British GP,2.0,10.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Canadian GP,2.0,12.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,United States GP,0.0,12.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,French GP,1.0,13.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,German GP,0.0,13.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Hungarian GP,6.0,19.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Turkish GP,0.0,19.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Italian GP,1.0,20.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Chinese GP,2.0,22.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Japanese GP,1.0,23.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+heidfeld,Brazilian GP,0.0,23.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F19_6f0cfc23f911fb6c8381.jpg&w=256&q=75
+ralf_schumacher,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Malaysian GP,1.0,1.0,2006-03-19,2.76083,101.738,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Australian GP,6.0,7.0,2006-04-02,-37.8497,144.968,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,San Marino GP,0.0,7.0,2006-04-23,44.3439,11.7167,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,European GP,0.0,7.0,2006-05-07,50.3356,6.9475,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Spanish GP,0.0,7.0,2006-05-14,41.57,2.26111,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Monaco GP,1.0,8.0,2006-05-28,43.7347,7.42056,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,British GP,0.0,8.0,2006-06-11,52.0786,-1.01694,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Canadian GP,0.0,8.0,2006-06-25,45.5,-73.5228,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,United States GP,0.0,8.0,2006-07-02,39.795,-86.2347,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,French GP,5.0,13.0,2006-07-16,46.8642,3.16361,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,German GP,0.0,13.0,2006-07-30,49.3278,8.56583,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Hungarian GP,3.0,16.0,2006-08-06,47.5789,19.2486,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Turkish GP,2.0,18.0,2006-08-27,40.9517,29.405,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Italian GP,0.0,18.0,2006-09-10,45.6156,9.28111,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Chinese GP,0.0,18.0,2006-10-01,31.3389,121.22,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Japanese GP,2.0,20.0,2006-10-08,34.8431,136.541,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+ralf_schumacher,Brazilian GP,0.0,20.0,2006-10-22,-23.7036,-46.6997,https://static.wikia.nocookie.net/f1wikia/images/0/04/Ralf_Schumacher.jpg/revision/latest?cb=20230922145252
+rosa,French GP,2.0,2.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,German GP,0.0,2.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Hungarian GP,8.0,10.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Turkish GP,4.0,14.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Italian GP,0.0,14.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Chinese GP,4.0,18.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Japanese GP,0.0,18.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+rosa,Brazilian GP,1.0,19.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-5edec345-2242-4e55-801e-769d5ef69f5d.jpg
+trulli,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Canadian GP,3.0,3.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,United States GP,5.0,8.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,French GP,0.0,8.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,German GP,2.0,10.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Hungarian GP,0.0,10.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Turkish GP,0.0,10.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Italian GP,2.0,12.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Chinese GP,0.0,12.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Japanese GP,3.0,15.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+trulli,Brazilian GP,0.0,15.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F9_acafcecca3d0efca51f6.jpg&w=256&q=75
+coulthard,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Australian GP,1.0,1.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,San Marino GP,0.0,1.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,European GP,0.0,1.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Spanish GP,0.0,1.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Monaco GP,6.0,7.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,British GP,0.0,7.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Canadian GP,1.0,8.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,United States GP,2.0,10.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,French GP,0.0,10.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,German GP,0.0,10.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Hungarian GP,4.0,14.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Turkish GP,0.0,14.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Italian GP,0.0,14.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Chinese GP,0.0,14.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Japanese GP,0.0,14.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+coulthard,Brazilian GP,0.0,14.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F7_c6b51d89a1abf05be86c.jpg&w=256&q=75
+webber,Bahrain GP,3.0,3.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Malaysian GP,0.0,3.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Australian GP,0.0,3.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,San Marino GP,3.0,6.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,European GP,0.0,6.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Spanish GP,0.0,6.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Monaco GP,0.0,6.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,British GP,0.0,6.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Canadian GP,0.0,6.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,United States GP,0.0,6.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,French GP,0.0,6.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,German GP,0.0,6.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Hungarian GP,0.0,6.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Turkish GP,0.0,6.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Italian GP,0.0,6.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Chinese GP,1.0,7.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Japanese GP,0.0,7.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+webber,Brazilian GP,0.0,7.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F15_2bcc4b09c7f87a165bb5.jpg&w=256&q=75
+villeneuve,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,Malaysian GP,2.0,2.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,Australian GP,3.0,5.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,San Marino GP,0.0,5.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,European GP,1.0,6.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,Spanish GP,0.0,6.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,Monaco GP,0.0,6.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,British GP,1.0,7.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,Canadian GP,0.0,7.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,United States GP,0.0,7.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,French GP,0.0,7.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+villeneuve,German GP,0.0,7.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F383_7a035665bdbe594cdab0.jpg&w=256&q=75
+kubica,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+kubica,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+kubica,Italian GP,6.0,6.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+kubica,Chinese GP,0.0,6.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+kubica,Japanese GP,0.0,6.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+kubica,Brazilian GP,0.0,6.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F256_4730b9db7334dd072e5b.jpg&w=256&q=75
+rosberg,Bahrain GP,2.0,2.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Malaysian GP,0.0,2.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Australian GP,0.0,2.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,San Marino GP,0.0,2.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,European GP,2.0,4.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Spanish GP,0.0,4.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Monaco GP,0.0,4.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,British GP,0.0,4.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Canadian GP,0.0,4.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,United States GP,0.0,4.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,French GP,0.0,4.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,German GP,0.0,4.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Hungarian GP,0.0,4.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Turkish GP,0.0,4.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Italian GP,0.0,4.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Chinese GP,0.0,4.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Japanese GP,0.0,4.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+rosberg,Brazilian GP,0.0,4.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-3a1e05b4-2d4b-4fee-a426-08d1af38a674.jpg
+klien,Bahrain GP,1.0,1.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Malaysian GP,0.0,1.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Australian GP,0.0,1.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,San Marino GP,0.0,1.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,European GP,0.0,1.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Spanish GP,0.0,1.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Monaco GP,0.0,1.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,British GP,0.0,1.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Canadian GP,0.0,1.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,United States GP,0.0,1.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,French GP,0.0,1.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,German GP,1.0,2.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Hungarian GP,0.0,2.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Turkish GP,0.0,2.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+klien,Italian GP,0.0,2.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F16_fe011f60ee99b5fa6283.jpg&w=256&q=75
+liuzzi,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,United States GP,1.0,1.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,French GP,0.0,1.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,German GP,0.0,1.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Hungarian GP,0.0,1.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Turkish GP,0.0,1.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Italian GP,0.0,1.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Chinese GP,0.0,1.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Japanese GP,0.0,1.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+liuzzi,Brazilian GP,0.0,1.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-6e9c9f91-2c12-4a5e-9b48-f0698061597a.jpg
+speed,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,United States GP,0.0,0.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,French GP,0.0,0.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,German GP,0.0,0.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Italian GP,0.0,0.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+speed,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-2d33cee8-b591-400e-8b18-7a2c59eabd48.jpg
+sato,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,United States GP,0.0,0.0,2006-07-02,39.795,-86.2347,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,French GP,0.0,0.0,2006-07-16,46.8642,3.16361,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,German GP,0.0,0.0,2006-07-30,49.3278,8.56583,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Italian GP,0.0,0.0,2006-09-10,45.6156,9.28111,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+sato,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://driverdb.com/_next/image?url=https%3A%2F%2Fassets.driverdb.com%2Fdrivers%2Fprofile%2F12_baa0df5d5b1a4a1e854e.jpg&w=256&q=75
+albers,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,United States GP,0.0,0.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,French GP,0.0,0.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,German GP,0.0,0.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Italian GP,0.0,0.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+albers,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-273116f6-38e0-4ae1-aff7-9c89fe0b8279.jpg
+monteiro,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,United States GP,0.0,0.0,2006-07-02,39.795,-86.2347,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,French GP,0.0,0.0,2006-07-16,46.8642,3.16361,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,German GP,0.0,0.0,2006-07-30,49.3278,8.56583,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Italian GP,0.0,0.0,2006-09-10,45.6156,9.28111,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+monteiro,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiago_monteiro_spafrancorchamps2014.JPG/800px-Tiago_monteiro_spafrancorchamps2014.JPG
+montagny,European GP,0.0,0.0,2006-05-07,50.3356,6.9475,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,Spanish GP,0.0,0.0,2006-05-14,41.57,2.26111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,Monaco GP,0.0,0.0,2006-05-28,43.7347,7.42056,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,British GP,0.0,0.0,2006-06-11,52.0786,-1.01694,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,Canadian GP,0.0,0.0,2006-06-25,45.5,-73.5228,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,United States GP,0.0,0.0,2006-07-02,39.795,-86.2347,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+montagny,French GP,0.0,0.0,2006-07-16,46.8642,3.16361,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-ef111e2f-7a81-422f-8c85-3b59de2faedd.jpg
+ide,Bahrain GP,0.0,0.0,2006-03-12,26.0325,50.5106,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-506c1114-7055-44d1-83f3-86ae802e1e83.jpg
+ide,Malaysian GP,0.0,0.0,2006-03-19,2.76083,101.738,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-506c1114-7055-44d1-83f3-86ae802e1e83.jpg
+ide,Australian GP,0.0,0.0,2006-04-02,-37.8497,144.968,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-506c1114-7055-44d1-83f3-86ae802e1e83.jpg
+ide,San Marino GP,0.0,0.0,2006-04-23,44.3439,11.7167,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-506c1114-7055-44d1-83f3-86ae802e1e83.jpg
+doornbos,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-d8d5ffdc-e03a-4cfb-94db-80a88d94a07f.jpg
+doornbos,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-d8d5ffdc-e03a-4cfb-94db-80a88d94a07f.jpg
+doornbos,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-d8d5ffdc-e03a-4cfb-94db-80a88d94a07f.jpg
+yamamoto,German GP,0.0,0.0,2006-07-30,49.3278,8.56583,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Hungarian GP,0.0,0.0,2006-08-06,47.5789,19.2486,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Turkish GP,0.0,0.0,2006-08-27,40.9517,29.405,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Italian GP,0.0,0.0,2006-09-10,45.6156,9.28111,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Chinese GP,0.0,0.0,2006-10-01,31.3389,121.22,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Japanese GP,0.0,0.0,2006-10-08,34.8431,136.541,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
+yamamoto,Brazilian GP,0.0,0.0,2006-10-22,-23.7036,-46.6997,https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-348891ae-9c60-46b6-aa0d-3558ca4c0499.jpg
