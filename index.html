@@ -3,56 +3,143 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tableau Visualization</title>
+    <title>The Visual Story of Alonso's Career</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Coda&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Coda', sans-serif;
+            font-size: 14px;
+            margin: 0;
+            padding: 20px; /* Add padding to create space around the content */
+            background-color: #f9f9f9; /* Light background color for better contrast */
         }
-        .tableauPlaceholder {
-            margin: 0 auto;
+        #timeline {
+            height: 100px;
             text-align: center;
+            padding: 20px;
+            margin-bottom: 20px; /* Add margin to create space between sections */
+            background-color: #f0f0f0;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+        }
+        #visualizations {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px;
+            margin-bottom: 20px; /* Add margin to create space between sections */
+            position: relative;
+            background-color: #ffffff;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+        }
+        #cards {
+            height: 100px;
+            text-align: center;
+            padding: 20px;
+            background-color: #f0f0f0;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+        }
+        .visualization {
+            width: 45%;
+            display: none;
+        }
+        .visualization.active {
+            display: block;
+        }
+        .toggle-button {
+            display: flex;
+            justify-content: center;
+            margin: 20px auto 25px; /* Center the button, add margin on top and bottom */
+            padding: 8px 16px; /* Smaller padding for a smaller button */
+            background-color: #333333;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px; /* Smaller font size */
+            text-align: center;
+            text-decoration: none;
+            font-family: 'Coda', sans-serif; /* Apply the custom font */
+            transition: background-color 0.3s ease; /* Smooth transition for background color */
+        }
+        .toggle-button:hover {
+            background-color: #555555; /* Lighter background color on hover */
+        }
+        #signature {
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px; /* Add margin to create space from the previous section */
+            background-color: #ffffff;
+            border-radius: 8px; /* Optional: rounded corners for a modern look */
+        }
+        #signature p {
+            margin: 5px 0;
         }
     </style>
 </head>
 <body>
-    <div class='tableauPlaceholder' id='viz1715810718081' style='position: relative'>
-        <noscript>
-            <a href='#'>
-                <img alt='Dashboard 4 ' src='https://public.tableau.com/static/images/da/data_viz_project_FINAL_colours/Dashboard4/1_rss.png' style='border: none' />
-            </a>
-        </noscript>
-        <object class='tableauViz'  style='display:none;'>
-            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-            <param name='embed_code_version' value='3' /> 
-            <param name='site_root' value='' />
-            <param name='name' value='data_viz_project_FINAL_colours/Dashboard4' />
-            <param name='tabs' value='no' />
-            <param name='toolbar' value='yes' />
-            <param name='static_image' value='https://public.tableau.com/static/images/da/data_viz_project_FINAL_colours/Dashboard4/1.png' />
-            <param name='animate_transition' value='yes' />
-            <param name='display_static_image' value='yes' />
-            <param name='display_spinner' value='yes' />
-            <param name='display_overlay' value='yes' />
-            <param name='display_count' value='yes' />
-            <param name='language' value='en-GB' />
-        </object>
+    <!-- Timeline -->
+    <div class="flourish-embed flourish-gantt" data-src="visualisation/17980472">
+        <script src="https://public.flourish.studio/resources/embed.js"></script>
     </div>
-    <script type='text/javascript'>
-        var divElement = document.getElementById('viz1715810718081');
-        var vizElement = divElement.getElementsByTagName('object')[0];
-        if (divElement.offsetWidth > 800) {
-            vizElement.style.width = '1654px';
-            vizElement.style.height = '1196px';
-        } else if (divElement.offsetWidth > 500) {
-            vizElement.style.width = '1654px';
-            vizElement.style.height = '1196px';
-        } else {
-            vizElement.style.width = '100%';
-            vizElement.style.height = '2227px';
+    <button class="toggle-button" onclick="toggleVisualizations()">Switch Season</button>
+    <div id="visualizations">
+        <div id="visualization1" class="visualization active">
+            <!-- Line 2005 -->
+            <div class="flourish-embed flourish-chart" data-src="visualisation/17964974" style="font-family: 'Coda', sans-serif; font-size: 14px">
+                <script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+        <div id="visualization2" class="visualization active">
+            <!-- Globe 2005 -->
+            <div class="flourish-embed" data-src="story/2381979" style="font-family: 'Coda', sans-serif; font-size: 14px">
+                <script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+        <div id="visualization3" class="visualization">
+            <!-- Line 2006 -->
+            <div class="flourish-embed flourish-chart" data-src="visualisation/17965669">
+                <script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+        <div id="visualization4" class="visualization">
+            <!-- Globe 2006 -->
+            <div class="flourish-embed" data-src="story/2382431">
+                <script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+    </div>
+    <div class="flourish-embed flourish-cards" data-src="visualisation/17979713">
+        <script src="https://public.flourish.studio/resources/embed.js"></script>
+    </div>
+    <div id="signature">
+        <p><strong>Bogdan Mihaila</strong></p>
+        <p>Email: <a href="mailto:bomi@itu.dk">bomi@itu.dk</a></p>
+        <p><strong>Pedro Prazeres</strong></p>
+        <p>Email: <a href="mailto:peca@itu.dk">peca@itu.dk</a></p>
+    </div>
+
+    <script>
+        function toggleVisualizations() {
+            const viz1 = document.getElementById('visualization1');
+            const viz2 = document.getElementById('visualization2');
+            const viz3 = document.getElementById('visualization3');
+            const viz4 = document.getElementById('visualization4');
+
+            if (viz1.classList.contains('active')) {
+                viz1.classList.remove('active');
+                viz2.classList.remove('active');
+                viz3.classList.add('active');
+                viz4.classList.add('active');
+            } else {
+                viz3.classList.remove('active');
+                viz4.classList.remove('active');
+                viz1.classList.add('active');
+                viz2.classList.add('active');
+            }
         }
-        var scriptElement = document.createElement('script');
-        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-        vizElement.parentNode.insertBefore(scriptElement, vizElement);
     </script>
 </body>
 </html>
