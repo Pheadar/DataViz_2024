@@ -1,5 +1,4 @@
-# Data Visualisation and Data-driven Decision Making 2024
-# Final Project: The Visual Story of Fernando Alonso's Formula 1 Career
+# Data Visualisation and Data-driven Decision Making 2024<br>Exam Project: *The Visual Story of Fernando Alonso's Formula 1 Career*
 
 ## Table of Contents
 
@@ -14,7 +13,7 @@
 
 ## Webpage
 
-The final interactive dashboard and visualizations can be accessed here: [**The Visual Story of Alonso's Career**](https://pheadar.github.io/DataViz_2024/)
+The final interactive dashboard and visualizations can be accessed here: [pheadar.github.io/DataViz_2024/](https://pheadar.github.io/DataViz_2024/)
 
 ---
 
