@@ -72,6 +72,8 @@ pip install -r requirements.txt
 │       └── {round number}-{GP name}
 |           ├── race_results.json
 │           └── quali_results.json (where available)
+├── images
+│   └── {driver}.png
 ├── scripts
 │   ├── 01-data_scrape.py
 │   ├── 02_data_merge.py
